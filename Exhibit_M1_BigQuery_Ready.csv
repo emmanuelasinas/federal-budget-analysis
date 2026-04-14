@@ -1,0 +1,422 @@
+Account,Account_Title,Organization,Budget_Activity,Budget_Activity_Title,BSA,Budget_SubActivity_BSA_Title,Add_Non_Add,Include_In_TOA,FY_2025_Actuals,FY_2025_Reconciliation,FY_2025_Total,FY_2026_Discretionary_Enacted,FY_2026_PL119_21_Spend_Plan,FY_2026_Total,FY_2027_Discretionary_Request,FY_2027_Mandatory_Request,FY_2027_Total,Classification
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,005,Basic Pay,Add,Y,9642225,,9642225,9731046,2397,9733443,10204460,,10204460,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,010,Retired Pay Accrual,Add,Y,2498539,,2498539,2354247,,2354247,2068528,,2068528,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,011,Thrift Savings Plan Matching Contributions,Add,Y,138181,,138181,145363,,145363,211328,,211328,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,025,Basic Allowance for Housing,Add,Y,2967775,,2967775,3019437,182367,3201804,3115609,,3115609,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,030,Basic Allowance for Subsistence,Add,Y,383150,,383150,383580,,383580,389987,,389987,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,035,Incentive Pays,Add,Y,97088,,97088,98549,,98549,85168,,85168,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,040,Special Pays,Add,Y,445307,,445307,469043,107,469150,489448,,489448,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,045,Allowances,Add,Y,220548,,220548,184340,88,184428,207147,,207147,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,050,Separation Pay,Add,Y,81615,,81615,70868,,70868,61367,,61367,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,055,Social Security Tax,Add,Y,737896,,737896,743275,174,743449,779799,,779799,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+2010A,"Military Personnel, Army",A,01,Pay and Allowances of Officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,060,Basic Pay,Add,Y,17176724,,17176724,17991651,20209,18011860,19513776,,19513776,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,065,Retired Pay Accrual,Add,Y,4486840,,4486840,4354810,,4354810,3946722,,3946722,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,066,Thrift Savings Plan Matching Contributions,Add,Y,321680,,321680,361497,,361497,441993,,441993,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,080,Basic Allowance for Housing,Add,Y,5945330,,5945330,6105810,703556,6809366,6460418,,6460418,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,085,Incentive Pays,Add,Y,84021,,84021,85543,,85543,82284,,82284,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,090,Special Pays,Add,Y,1132456,,1132456,1167086,835,1167921,1019394,,1019394,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,095,Allowances,Add,Y,799238,,799238,800335,698,801033,900501,,900501,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,100,Separation Pay,Add,Y,295236,,295236,304740,,304740,288054,,288054,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,105,Social Security Tax,Add,Y,1303034,,1303034,1376412,1546,1377958,1492811,,1492811,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,,,,0,0,0,1653461,,1653461,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,120,Subsistence-In-Kind,Add,Y,,,,0,,0,1183640,,1183640,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2010A,"Military Personnel, Army",A,02,Pay and allowances of enlisted personnel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+2010A,"Military Personnel, Army",A,03,Pay and Allowances of Cadets,110,Academy Cadets,Add,Y,112681,,112681,115749,,115749,121063,,121063,U
+2010A,"Military Personnel, Army",A,03,Pay and Allowances of Cadets,999,Undistributed,Add,Y,,,,,,,0,,0,U
+2010A,"Military Personnel, Army",A,04,Subsistence of Enlisted Personnel,115,Basic Allowance for Subsistence,Add,Y,1557265,,1557265,1578246,1747,1579993,,,,U
+2010A,"Military Personnel, Army",A,04,Subsistence of Enlisted Personnel,120,Subsistence-In-Kind,Add,Y,1127486,,1127486,1084824,,1084824,,,,U
+2010A,"Military Personnel, Army",A,04,Subsistence of Enlisted Personnel,999,Undistributed,Add,Y,0,,0,,,,,,,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,125,Accession Travel,Add,Y,243201,,243201,186636,,186636,188116,,188116,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,130,Training Travel,Add,Y,123364,,123364,225733,,225733,124009,,124009,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,135,Operational Travel,Add,Y,713794,,713794,695806,,695806,544183,,544183,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,140,Rotational Travel,Add,Y,707020,,707020,704704,,704704,809129,,809129,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,145,Separation Travel,Add,Y,229281,,229281,237225,,237225,258703,,258703,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,150,Travel of Organized Units,Add,Y,397,,397,124,,124,221,,221,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,155,Non-Temporary Storage,Add,Y,16550,,16550,13752,,13752,16994,,16994,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,160,Temporary Lodging Expense,Add,Y,57861,,57861,66169,169326,235495,51035,,51035,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+2010A,"Military Personnel, Army",A,05,Permanent change of station travel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,170,Apprehension of Military Deserters,Add,Y,108,,108,143,,143,113,,113,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,175,Interest on Uniformed Services Savings,Add,Y,2184,,2184,2118,,2118,1595,,1595,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,180,Death Gratuities,Add,Y,42600,,42600,38300,,38300,39300,,39300,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,185,Unemployment Benefits,Add,Y,63541,,63541,64215,,64215,63148,,63148,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,200,Adoption Expenses,Add,Y,537,,537,438,,438,355,,355,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,210,Transportation Subsidy,Add,Y,7670,,7670,10205,,10205,7933,,7933,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,215,Partial Dislocation Allowance,Add,Y,953,,953,635,,635,561,,561,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,216,SGLI Extra Hazard Payments,Add,Y,4622,,4622,4300,,4300,3407,,3407,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,217,Reserve Officers Training Corps (ROTC),Add,Y,85500,,85500,77606,,77606,79963,,79963,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,218,Junior ROTC,Add,Y,34660,,34660,27484,,27484,32501,,32501,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,219,Traumatic Injury Protection Coverage (T-SGLI),Add,Y,400,,400,400,,400,300,,300,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+2010A,"Military Personnel, Army",A,06,Other military personnel costs,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2010A,"Military Personnel, Army",A,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+2010A,"Military Personnel, Army",A,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2010A,"Military Personnel, Army",A,,Less Reimbursables,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2010A,"Military Personnel, Army",A,,Less Reimbursables,,Less Reimbursables,Add,N,-652126,,-652126,-344078,,-344078,-370554,,-370554,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,01,Health care contribution - Officers,300,"Military Personnel, Army",Add,Y,640013,,640013,730652,,730652,796762,,796762,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,01,Health care contribution - Officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,01,Health care contribution - Officers,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,02,Health care contribution - Enlisted,300,"Military Personnel, Army",Add,Y,2382309,,2382309,2820670,,2820670,3175399,,3175399,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,02,Health care contribution - Enlisted,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,02,Health care contribution - Enlisted,999,Undistributed,Add,Y,,,,,,,0,,0,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1004A,"Medicare-Eligible Retiree Health Fund Contribution, Army",A,20,UNDISTRIBUTED,999,Undistributed,Add,Y,,,,0,,0,,,,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,010,Pay Group A Training  (15 Days & Drills 24/48),Add,Y,1607184,,1607184,1742502,0,1742502,1793603,,1793603,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,020,Pay Group B Training  (Backfill For Active Duty),Add,Y,49862,,49862,57062,,57062,57278,,57278,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,030,Pay Group F Training  (Recruits),Add,Y,298860,,298860,239038,,239038,271051,,271051,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,040,Pay Group P Training  (Pipeline Recruits),Add,Y,9500,,9500,9360,,9360,12422,,12422,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,060,Mobilization Training,Add,Y,2525,,2525,2454,,2454,2516,,2516,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,070,School Training,Add,Y,235521,,235521,234921,,234921,223038,,223038,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,080,Special Training,Add,Y,398928,,398928,353271,,353271,360958,,360958,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,090,Administration and Support,Add,Y,2741195,,2741195,2913914,84740,2998654,3043171,,3043171,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,094,Thrift Savings Plan Matching Contributions,Add,Y,36080,,36080,29029,,29029,32623,,32623,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,100,Education Benefits,Add,Y,7657,,7657,12450,,12450,52746,,52746,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,120,Health Profession Scholarship,Add,Y,83729,,83729,78617,,78617,84372,,84372,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,130,Other Programs (Admin & Support),Add,Y,66307,,66307,61078,,61078,69411,,69411,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2070A,"Reserve Personnel, Army",A,01,Reserve component training and support,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+2070A,"Reserve Personnel, Army",A,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+2070A,"Reserve Personnel, Army",A,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1005A,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Army",A,01,Health care contribution - Reserve component,300,"Reserve Personnel, Army",Add,Y,511378,,511378,577765,,577765,639807,,639807,U
+1005A,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Army",A,01,Health care contribution - Reserve component,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1005A,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Army",A,01,Health care contribution - Reserve component,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1005A,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Army",A,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,010,Pay Group A Training  (15 Days & Drills 24/48),Add,Y,2863466,,2863466,2963462,0,2963462,3287246,,3287246,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,030,Pay Group F Training  (Recruits),Add,Y,729981,,729981,838742,,838742,763597,,763597,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,040,Pay Group P Training  (Pipeline Recruits),Add,Y,59523,,59523,68878,,68878,73499,,73499,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,070,School Training,Add,Y,543934,,543934,591029,,591029,561535,,561535,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,080,Special Training,Add,Y,1137467,,1137467,887415,,887415,1438197,,1438197,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,090,Administration and Support,Add,Y,4900327,,4900327,4975251,191111,5166362,5156800,,5156800,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,094,Thrift Savings Plan Matching Contributions,Add,Y,73000,,73000,80632,,80632,110414,,110414,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,100,Education Benefits,Add,Y,30124,,30124,71583,,71583,163837,,163837,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+2060A,"National Guard Personnel, Army",A,01,Reserve Component Training and Support,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+2060A,"National Guard Personnel, Army",A,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+2060A,"National Guard Personnel, Army",A,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1006A,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., Army",A,01,Health care contribution - Reserve component,300,"National Guard Personnel, Army",Add,Y,953525,,953525,1102336,,1102336,1239331,,1239331,U
+1006A,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., Army",A,01,Health care contribution - Reserve component,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1006A,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., Army",A,01,Health care contribution - Reserve component,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1006A,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., Army",A,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,005,Basic Pay,Add,Y,5598604,,5598604,5854757,,5854757,6259766,,6259766,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,010,Retired Pay Accrual,Add,Y,1480048,,1480048,1420796,,1420796,1262936,,1262936,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,011,Thrift Savings Plan Matching Contributions,Add,Y,83257,,83257,109698,,109698,102721,,102721,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,025,Basic Allowance for Housing,Add,Y,2080918,,2080918,2194943,113000,2307943,2262853,,2262853,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,030,Basic Allowance for Subsistence,Add,Y,218080,,218080,224464,,224464,235281,,235281,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,035,Incentive Pays,Add,Y,144496,,144496,181841,,181841,205890,,205890,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,040,Special Pays,Add,Y,490076,,490076,539680,,539680,579739,,579739,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,045,Allowances,Add,Y,109875,,109875,91396,,91396,111191,,111191,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,050,Separation Pay,Add,Y,42358,,42358,44176,,44176,44472,,44472,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,055,Social Security Tax,Add,Y,426338,,426338,447434,,447434,478625,,478625,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1453N,"Military Personnel, Navy",N,01,Pay and allowances of officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,060,Basic Pay,Add,Y,12632328,,12632328,13476483,,13476483,14792099,,14792099,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,065,Retired Pay Accrual,Add,Y,3343012,,3343012,3273148,,3273148,2949427,,2949427,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,066,Thrift Savings Plan Matching Contributions,Add,Y,236488,,236488,250924,,250924,287798,,287798,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,080,Basic Allowance for Housing,Add,Y,6198105,,6198105,6443365,559000,7002365,7560251,,7560251,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,085,Incentive Pays,Add,Y,105479,,105479,113941,,113941,119410,,119410,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,090,Special Pays,Add,Y,1570777,,1570777,1556442,,1556442,1655015,,1655015,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,095,Allowances,Add,Y,569557,,569557,422538,0,422538,543268,,543268,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,100,Separation Pay,Add,Y,127541,,127541,138052,,138052,134011,,134011,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,105,Social Security Tax,Add,Y,959806,,959806,1030950,,1030950,1117889,,1117889,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,,,,0,,0,1155630,,1155630,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,120,Subsistence-In-Kind,Add,Y,,,,0,,0,637076,,637076,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,121,Family Subsistence Supplemental Allowance,Add,Y,,,,0,,0,5,,5,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1453N,"Military Personnel, Navy",N,02,Pay and allowances of enlisted personnel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,03,Pay and Allowances of Cadets,110,Midshipmen,Add,Y,114804,,114804,120159,,120159,125114,,125114,U
+1453N,"Military Personnel, Navy",N,03,Pay and Allowances of Cadets,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1453N,"Military Personnel, Navy",N,04,Subsistence of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,1019415,,1019415,1070853,,1070853,,,,U
+1453N,"Military Personnel, Navy",N,04,Subsistence of enlisted personnel,120,Subsistence-In-Kind,Add,Y,585003,,585003,603791,,603791,,,,U
+1453N,"Military Personnel, Navy",N,04,Subsistence of enlisted personnel,121,Family Subsistence Supplemental Allowance,Add,Y,0,,0,5,,5,,,,U
+1453N,"Military Personnel, Navy",N,04,Subsistence of enlisted personnel,999,Undistributed,Add,Y,0,,0,,,,,,,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,125,Accession Travel,Add,Y,126782,,126782,127879,,127879,130434,,130434,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,130,Training Travel,Add,Y,123312,,123312,192866,,192866,185723,,185723,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,135,Operational Travel,Add,Y,377483,,377483,543343,,543343,413861,,413861,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,140,Rotational Travel,Add,Y,405409,,405409,214524,,214524,197681,,197681,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,145,Separation Travel,Add,Y,137308,,137308,136573,,136573,165335,,165335,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,150,Travel of Organized Units,Add,Y,31210,,31210,45900,,45900,54881,,54881,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,155,Non-Temporary Storage,Add,Y,25357,,25357,15462,,15462,16728,,16728,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,160,Temporary Lodging Expense,Add,Y,14318,,14318,14690,31641,46331,15072,,15072,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,05,Permanent change of station travel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,170,Apprehension of Military Deserters,Add,Y,63,,63,78,,78,78,,78,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,175,Interest on Uniformed Services Savings,Add,Y,385,,385,377,,377,374,,374,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,180,Death Gratuities,Add,Y,26014,,26014,23700,,23700,24800,,24800,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,185,Unemployment Benefits,Add,Y,31842,,31842,48176,,48176,51488,,51488,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,195,Education Benefits,Add,Y,0,,0,497,,497,0,,0,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,200,Adoption Expenses,Add,Y,93,,93,114,,114,109,,109,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,210,Transportation Subsidy,Add,Y,3297,,3297,3697,,3697,3600,,3600,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,215,Partial Dislocation Allowance,Add,Y,53,,53,14,,14,68,,68,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,216,SGLI Extra Hazard Payments,Add,Y,6740,,6740,3097,,3097,3961,,3961,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,217,Reserve Officers Training Corps (ROTC),Add,Y,21373,,21373,23325,,23325,21058,,21058,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,218,Junior ROTC,Add,Y,10562,,10562,17878,,17878,23644,,23644,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,06,Other Military Personnel Costs,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1453N,"Military Personnel, Navy",N,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,,Less Reimbursables,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1453N,"Military Personnel, Navy",N,,Less Reimbursables,,Less Reimbursables,Add,N,-468545,,-468545,-477467,,-477467,-474127,,-474127,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,01,Health care contribution - Officers,300,Navy,Add,Y,385454,,385454,445545,,445545,494874,,494874,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,01,Health care contribution - Officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,01,Health care contribution - Officers,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,02,Health care contribution - Enlisted,300,Navy,Add,Y,1878056,,1878056,2235242,,2235242,2527902,,2527902,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,02,Health care contribution - Enlisted,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,02,Health care contribution - Enlisted,999,Undistributed,Add,Y,,,,,,,0,,0,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,20,UNDISTRIBUTED,999,Undistributed,Add,Y,,,,0,,0,,,,U
+1000N,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,005,Basic Pay,Add,Y,2051666,,2051666,2180089,,2180089,2307802,,2307802,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,010,Retired Pay Accrual,Add,Y,546062,,546062,528948,,528948,465499,,465499,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,011,Thrift Savings Plan Matching Contributions,Add,Y,44223,,44223,42565,,42565,52717,,52717,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,025,Basic Allowance for Housing,Add,Y,730873,,730873,782951,43000,825951,824916,,824916,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,030,Basic Allowance for Subsistence,Add,Y,80423,,80423,87404,,87404,89613,,89613,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,035,Incentive Pays,Add,Y,41358,,41358,53414,,53414,55550,,55550,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,040,Special Pays,Add,Y,20986,,20986,18019,,18019,25180,,25180,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,045,Allowances,Add,Y,33995,,33995,25960,1080,27040,37418,,37418,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,050,Separation Pay,Add,Y,18885,,18885,24603,,24603,19182,,19182,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,055,Social Security Tax,Add,Y,156506,,156506,166420,,166420,176360,,176360,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,01,Pay and allowances of officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,060,Basic Pay,Add,Y,6111007,,6111007,6533555,,6533555,7075993,,7075993,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,065,Retired Pay Accrual,Add,Y,1619808,,1619808,1585533,,1585533,1427078,,1427078,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,066,Thrift Savings Plan Matching Contributions,Add,Y,165510,,165510,153173,,153173,172522,,172522,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,080,Basic Allowance for Housing,Add,Y,2049105,,2049105,2096045,296000,2392045,2268702,,2268702,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,085,Incentive Pays,Add,Y,6361,,6361,8836,,8836,8911,,8911,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,090,Special Pays,Add,Y,288179,,288179,255499,50000,305499,331349,,331349,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,095,Allowances,Add,Y,300778,,300778,292541,4318,296859,322526,,322526,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,100,Separation Pay,Add,Y,95777,,95777,115125,,115125,96315,,96315,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,105,Social Security Tax,Add,Y,464548,,464548,499411,,499411,540885,,540885,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,,,,0,,0,537796,,537796,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,120,Subsistence-In-Kind,Add,Y,,,,0,,0,471351,,471351,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,121,Family Subsistence Supplemental Allowance,Add,Y,,,,0,,0,10,,10,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,02,Pay and allowances of enlisted personnel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,04,Subsistence of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,500723,,500723,506734,,506734,,,,U
+1105N,"Military Personnel, Marine Corps",N,04,Subsistence of enlisted personnel,120,Subsistence-In-Kind,Add,Y,451097,,451097,473967,,473967,,,,U
+1105N,"Military Personnel, Marine Corps",N,04,Subsistence of enlisted personnel,121,Family Subsistence Supplemental Allowance,Add,Y,0,,0,10,,10,,,,U
+1105N,"Military Personnel, Marine Corps",N,04,Subsistence of enlisted personnel,999,Undistributed,Add,Y,0,,0,,,,,,,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,125,Accession Travel,Add,Y,61197,,61197,60765,,60765,69057,,69057,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,130,Training Travel,Add,Y,15479,,15479,25795,,25795,18510,,18510,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,135,Operational Travel,Add,Y,182071,,182071,226841,,226841,197363,,197363,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,140,Rotational Travel,Add,Y,113030,,113030,110839,,110839,117155,,117155,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,145,Separation Travel,Add,Y,102123,,102123,107044,,107044,104443,,104443,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,150,Travel of Organized Units,Add,Y,159,,159,150,,150,141,,141,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,155,Non-Temporary Storage,Add,Y,9177,,9177,14384,,14384,10762,,10762,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,160,Temporary Lodging Expense,Add,Y,7333,,7333,7550,41689,49239,7736,,7736,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,165,Other,Add,Y,5028,,5028,3318,,3318,4616,,4616,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,05,Permanent change of station travel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,170,Apprehension of Military Deserters,Add,Y,209,,209,200,,200,220,,220,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,175,Interest on Uniformed Services Savings,Add,Y,58,,58,55,,55,64,,64,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,180,Death Gratuities,Add,Y,11050,,11050,11250,,11250,11050,,11050,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,185,Unemployment Benefits,Add,Y,11364,,11364,11480,,11480,11939,,11939,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,200,Adoption Expenses,Add,Y,42,,42,68,,68,42,,42,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,210,Transportation Subsidy,Add,Y,944,,944,783,,783,1002,,1002,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,215,Partial Dislocation Allowance,Add,Y,94,,94,41,,41,101,,101,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,216,SGLI Extra Hazard Payments,Add,Y,811,,811,2040,,2040,2190,,2190,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,218,Junior ROTC,Add,Y,3335,,3335,3397,,3397,4279,,4279,U
+1105N,"Military Personnel, Marine Corps",N,06,Other military personnel costs,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1105N,"Military Personnel, Marine Corps",N,,Less Reimbursables,,Less Reimbursables,Add,N,-15463,,-15463,-26413,,-26413,-14860,,-14860,U
+1001N,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N,01,Health care contribution - Officers,300,Marine Corps,Add,Y,149697,,149697,173080,,173080,187705,,187705,U
+1001N,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N,01,Health care contribution - Officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1001N,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N,01,Health care contribution - Officers,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+1001N,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N,02,Health care contribution - Enlisted,300,Marine Corps,Add,Y,1025905,,1025905,1174964,,1174964,1304380,,1304380,U
+1001N,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N,02,Health care contribution - Enlisted,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1001N,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N,02,Health care contribution - Enlisted,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+1001N,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,010,Pay Group A Training  (15 Days & Drills 24/48),Add,Y,779989,,779989,829339,0,829339,868209,,868209,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,020,Pay Group B Training  (Backfill For Active Duty),Add,Y,9821,,9821,10012,,10012,8421,,8421,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,030,Pay Group F Training  (Recruits),Add,Y,52128,,52128,43372,,43372,44174,,44174,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,060,Mobilization Training,Add,Y,14925,,14925,17807,,17807,18423,,18423,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,070,School Training,Add,Y,77147,,77147,81475,,81475,87046,,87046,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,080,Special Training,Add,Y,141157,,141157,166448,,166448,155676,,155676,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,090,Administration and Support,Add,Y,1450195,,1450195,1486732,41746,1528478,1535014,,1535014,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,094,Thrift Savings Plan Matching Contributions,Add,Y,13099,,13099,12484,,12484,14859,,14859,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,100,Education Benefits,Add,Y,157,,157,743,,743,224,,224,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,120,Health Profession Scholarship,Add,Y,64767,,64767,63947,,63947,65637,,65637,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1405N,"Reserve Personnel, Navy",N,01,Reserve Component Training and Support,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1405N,"Reserve Personnel, Navy",N,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1405N,"Reserve Personnel, Navy",N,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1002N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Navy",N,01,Health care contribution - Reserve component,300,"Reserve Personnel, Navy",Add,Y,187400,,187400,218347,,218347,241853,,241853,U
+1002N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Navy",N,01,Health care contribution - Reserve component,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1002N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Navy",N,01,Health care contribution - Reserve component,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1002N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., Navy",N,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,010,Pay Group A Training  (15 Days & Drills 24/48),Add,Y,298700,,298700,304272,0,304272,343418,,343418,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,020,Pay Group B Training  (Backfill For Active Duty),Add,Y,51436,,51436,48619,,48619,58285,,58285,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,030,Pay Group F Training  (Recruits),Add,Y,121269,,121269,143335,,143335,155546,,155546,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,060,Mobilization Training,Add,Y,1124,,1124,1302,,1302,1238,,1238,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,070,School Training,Add,Y,28816,,28816,29078,,29078,32386,,32386,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,080,Special Training,Add,Y,64439,,64439,72047,,72047,72247,,72247,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,090,Administration and Support,Add,Y,349978,,349978,382812,28245,411057,378439,,378439,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,094,Thrift Savings Plan Matching Contributions,Add,Y,9880,,9880,11004,,11004,12629,,12629,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,095,Platoon Leader Class,Add,Y,8213,,8213,8836,,8836,9206,,9206,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,100,Education Benefits,Add,Y,2275,,2275,1620,,1620,2528,,2528,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1108N,"Reserve Personnel, Marine Corps",N,01,Reserve component training and support,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1108N,"Reserve Personnel, Marine Corps",N,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1108N,"Reserve Personnel, Marine Corps",N,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1003N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., MC",N,01,Health care contribution - Reserve component,300,"Reserve Personnel, Marine Corps",Add,Y,92828,,92828,107730,,107730,122767,,122767,U
+1003N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., MC",N,01,Health care contribution - Reserve component,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1003N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., MC",N,01,Health care contribution - Reserve component,999,Undistributed,Add,Y,,,,,,,0,,0,U
+1003N,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., MC",N,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,005,Basic Pay,Add,Y,6387988,,6387988,6723566,0,6723566,7252257,,7252257,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,010,Retired Pay Accrual,Add,Y,1684374,,1684374,1628782,,1628782,1461000,,1461000,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,011,Thrift Savings Plan Matching Contributions,Add,Y,114544,,114544,104458,,104458,116641,,116641,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,025,Basic Allowance for Housing,Add,Y,1842296,,1842296,2022906,122000,2144906,1945058,,1945058,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,030,Basic Allowance for Subsistence,Add,Y,241620,,241620,252972,,252972,265685,,265685,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,035,Incentive Pays,Add,Y,342250,,342250,438598,,438598,439648,,439648,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,040,Special Pays,Add,Y,469590,,469590,506052,,506052,545610,,545610,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,045,Allowances,Add,Y,119279,,119279,80612,,80612,126144,,126144,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,050,Separation Pay,Add,Y,40983,,40983,40264,,40264,49991,,49991,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,055,Social Security Tax,Add,Y,488156,,488156,513823,,513823,554265,,554265,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3500F,"Military Personnel, Air Force",F,01,Pay and allowances of officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,060,Basic Pay,Add,Y,12092817,,12092817,12642437,0,12642437,14044209,,14044209,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,065,Retired Pay Accrual,Add,Y,3188334,,3188334,3062653,,3062653,2829107,,2829107,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,066,Thrift Savings Plan Matching Contributions,Add,Y,238284,,238284,231776,,231776,274594,,274594,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,080,Basic Allowance for Housing,Add,Y,4887320,,4887320,5306929,496000,5802929,5153110,,5153110,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,085,Incentive Pays,Add,Y,69330,,69330,52001,,52001,55720,,55720,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,090,Special Pays,Add,Y,576620,,576620,522974,,522974,587386,,587386,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,095,Allowances,Add,Y,638087,,638087,432507,0,432507,735610,,735610,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,100,Separation Pay,Add,Y,86336,,86336,84929,,84929,100681,,100681,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,105,Social Security Tax,Add,Y,925101,,925101,967146,,967146,1074382,,1074382,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,,,,0,,0,1427135,,1427135,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,120,Subsistence-In-Kind,Add,Y,,,,0,,0,324915,,324915,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3500F,"Military Personnel, Air Force",F,02,Pay and allowances of enlisted personnel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,03,Pay and allowances of cadets,110,Academy Cadets,Add,Y,102368,,102368,105204,,105204,111532,,111532,U
+3500F,"Military Personnel, Air Force",F,03,Pay and allowances of cadets,999,Undistributed,Add,Y,0,,0,,,,,,,U
+3500F,"Military Personnel, Air Force",F,04,Subsistence of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,1290696,,1290696,1348166,,1348166,0,,0,U
+3500F,"Military Personnel, Air Force",F,04,Subsistence of enlisted personnel,120,Subsistence-In-Kind,Add,Y,301824,,301824,320251,,320251,0,,0,U
+3500F,"Military Personnel, Air Force",F,04,Subsistence of enlisted personnel,999,Undistributed,Add,Y,0,,0,,,,,,,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,125,Accession Travel,Add,Y,139826,,139826,165866,,165866,176227,,176227,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,130,Training Travel,Add,Y,89025,,89025,77636,,77636,88279,,88279,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,135,Operational Travel,Add,Y,338698,,338698,326853,,326853,373930,,373930,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,140,Rotational Travel,Add,Y,583309,,583309,701385,,701385,732255,,732255,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,145,Separation Travel,Add,Y,201630,,201630,241861,,241861,251919,,251919,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,150,Travel of Organized Units,Add,Y,6521,,6521,24896,,24896,29382,,29382,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,155,Non-Temporary Storage,Add,Y,47927,,47927,41372,,41372,35962,,35962,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,160,Temporary Lodging Expense,Add,Y,94500,,94500,140250,187519,327769,114929,,114929,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,165,Other,Add,Y,18932,,18932,30828,,30828,14361,,14361,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3500F,"Military Personnel, Air Force",F,05,Permanent Change of Station Travel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,170,Apprehension of Military Deserters,Add,Y,26,,26,26,,26,27,,27,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,175,Interest on Uniformed Services Savings,Add,Y,488,,488,1784,,1784,413,,413,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,180,Death Gratuities,Add,Y,20100,,20100,20300,,20300,20700,,20700,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,185,Unemployment Benefits,Add,Y,24119,,24119,24629,,24629,25287,,25287,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,200,Adoption Expenses,Add,Y,201,,201,407,,407,202,,202,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,210,Transportation Subsidy,Add,Y,3596,,3596,7300,,7300,2960,,2960,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,215,Partial Dislocation Allowance,Add,Y,11690,,11690,15371,,15371,13116,,13116,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,216,SGLI Extra Hazard Payments,Add,Y,4560,,4560,4041,,4041,4138,,4138,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,217,Reserve Officers Training Corps (ROTC),Add,Y,36341,,36341,46150,,46150,33880,,33880,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,218,Junior ROTC,Add,Y,19646,,19646,23621,,23621,22226,,22226,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,06,Other Military Personnel Costs,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+3500F,"Military Personnel, Air Force",F,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,,Less Reimbursables,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3500F,"Military Personnel, Air Force",F,,Less Reimbursables,,Less Reimbursables,Add,N,-511887,,-511887,-515190,,-515190,-529181,,-529181,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,01,Health care contribution - Officers,300,Air Force,Add,Y,419284,,419284,487858,,487858,538930,,538930,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,01,Health care contribution - Officers,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,01,Health care contribution - Officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,02,Health care contribution - Enlisted,300,Air Force,Add,Y,1772797,,1772797,2027086,,2027086,2267128,,2267128,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,02,Health care contribution - Enlisted,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,02,Health care contribution - Enlisted,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1007F,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",F,20,UNDISTRIBUTED,999,Undistributed,Add,Y,,,,0,,0,,,,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,005,Basic Pay,Add,Y,472451,,472451,527838,,527838,613655,,613655,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,010,Retired Pay Accrual,Add,Y,124764,,124764,127920,,127920,123390,,123390,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,011,Thrift Savings Plan Matching Contributions,Add,Y,8464,,8464,7615,,7615,9118,,9118,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,025,Basic Allowance for Housing,Add,Y,175611,,175611,129692,9000,138692,221381,,221381,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,030,Basic Allowance for Subsistence,Add,Y,18088,,18088,19568,,19568,23030,,23030,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,035,Incentive Pays,Add,Y,88,,88,88,,88,88,,88,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,040,Special Pays,Add,Y,3840,,3840,1690,,1690,6254,,6254,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,045,Allowances,Add,Y,4323,,4323,9046,,9046,5927,,5927,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,050,Separation Pay,Add,Y,2752,,2752,2498,,2498,3704,,3704,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,055,Social Security Tax,Add,Y,36063,,36063,40317,,40317,46869,,46869,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3510F,"Military Personnel, Space Force",F,01,Pay and allowances of officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,060,Basic Pay,Add,Y,247264,,247264,282012,,282012,338225,,338225,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,065,Retired Pay Accrual,Add,Y,65309,,65309,68378,,68378,68155,,68155,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,066,Thrift Savings Plan Matching Contributions,Add,Y,4850,,4850,4585,,4585,5161,,5161,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,080,Basic Allowance for Housing,Add,Y,114452,,114452,98746,10000,108746,144715,,144715,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,085,Incentive Pays,Add,Y,25,,25,16,,16,25,,25,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,090,Special Pays,Add,Y,41316,,41316,48641,,48641,54426,,54426,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,095,Allowances,Add,Y,8174,,8174,10091,0,10091,16808,,16808,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,100,Separation Pay,Add,Y,1462,,1462,1970,,1970,2972,,2972,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,105,Social Security Tax,Add,Y,18914,,18914,21575,,21575,25876,,25876,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,,,,0,,0,35461,,35461,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3510F,"Military Personnel, Space Force",F,02,Pay and allowances of enlisted personnel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3510F,"Military Personnel, Space Force",F,04,Subsistence of enlisted personnel,115,Basic Allowance for Subsistence,Add,Y,26966,,26966,30023,,30023,,,,U
+3510F,"Military Personnel, Space Force",F,04,Subsistence of enlisted personnel,999,Undistributed,Add,Y,0,,0,,,,,,,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,125,Accession Travel,Add,Y,5710,,5710,4593,,4593,20448,,20448,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,130,Training Travel,Add,Y,4612,,4612,8691,,8691,7602,,7602,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,135,Operational Travel,Add,Y,16923,,16923,24535,,24535,22280,,22280,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,140,Rotational Travel,Add,Y,9894,,9894,11411,,11411,13593,,13593,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,145,Separation Travel,Add,Y,5273,,5273,5974,,5974,7485,,7485,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,150,Travel of Organized Units,Add,Y,447,,447,773,,773,291,,291,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,155,Non-Temporary Storage,Add,Y,1815,,1815,1735,,1735,1892,,1892,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,160,Temporary Lodging Expense,Add,Y,2789,,2789,1728,19967,21695,4351,,4351,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3510F,"Military Personnel, Space Force",F,05,Permanent change of station travel,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,180,Death Gratuities,Add,Y,400,,400,300,,300,500,,500,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,185,Unemployment Benefits,Add,Y,738,,738,759,,759,610,,610,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,200,Adoption Expenses,Add,Y,17,,17,17,,17,17,,17,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,210,Transportation Subsidy,Add,Y,502,,502,937,,937,506,,506,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,215,Partial Dislocation Allowance,Add,Y,300,,300,824,,824,360,,360,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,216,SGLI Extra Hazard Payments,Add,Y,50,,50,56,,56,53,,53,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3510F,"Military Personnel, Space Force",F,06,Other Military Personnel Costs,999,Undistributed,Add,Y,0,,0,,,,,,,U
+3510F,"Military Personnel, Space Force",F,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3510F,"Military Personnel, Space Force",F,20,Undistributed,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+3510F,"Military Personnel, Space Force",F,,Less Reimbursables,,Less Reimbursables,Add,N,-357,,-357,-300,,-300,-375,,-375,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,010,Pay Group A Training  (15 Days & Drills 24/48),Add,Y,740201,,740201,831757,0,831757,827681,,827681,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,020,Pay Group B Training  (Backfill For Active Duty),Add,Y,114306,,114306,117758,,117758,117117,,117117,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,030,Pay Group F Training  (Recruits),Add,Y,70610,,70610,69989,,69989,93365,,93365,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,040,Pay Group P Training  (Pipeline Recruits),Add,Y,5972,,5972,4143,,4143,4408,,4408,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,060,Mobilization Training,Add,Y,334,,334,340,,340,548,,548,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,070,School Training,Add,Y,230309,,230309,229015,,229015,242762,,242762,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,080,Special Training,Add,Y,379386,,379386,350726,,350726,399711,,399711,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,090,Administration and Support,Add,Y,959217,,959217,1000501,47364,1047865,1053576,,1053576,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,094,Thrift Savings Plan Matching Contributions,Add,Y,16007,,16007,11199,,11199,13769,,13769,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,100,Education Benefits,Add,Y,12253,,12253,15431,,15431,15473,,15473,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,120,Health Profession Scholarship,Add,Y,59530,,59530,68799,,68799,73620,,73620,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,130,Other Programs (Admin & Support),Add,Y,1618,,1618,1457,,1457,2272,,2272,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3700F,"Reserve Personnel, Air Force",F,01,Reserve component training and support,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3700F,"Reserve Personnel, Air Force",F,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+3700F,"Reserve Personnel, Air Force",F,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1008F,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., AF",F,01,Health care contribution - Reserve component,300,"Reserve Personnel, Air Force",Add,Y,196363,,196363,225940,,225940,247016,,247016,U
+1008F,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., AF",F,01,Health care contribution - Reserve component,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1008F,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., AF",F,01,Health care contribution - Reserve component,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1008F,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Pers., AF",F,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,010,Pay Group A Training  (15 Days & Drills 24/48),Add,Y,957455,,957455,1038404,0,1038404,1134143,,1134143,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,030,Pay Group F Training  (Recruits),Add,Y,112065,,112065,92503,,92503,121533,,121533,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,040,Pay Group P Training  (Pipeline Recruits),Add,Y,8715,,8715,3521,,3521,8087,,8087,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,070,School Training,Add,Y,379821,,379821,375554,,375554,468086,,468086,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,080,Special Training,Add,Y,375562,,375562,273636,,273636,375044,,375044,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,090,Administration and Support,Add,Y,3393870,,3393870,3643207,119652,3762859,3758649,,3758649,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,094,Thrift Savings Plan Matching Contributions,Add,Y,28062,,28062,22975,,22975,29037,,29037,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,100,Education Benefits,Add,Y,15933,,15933,17387,,17387,23896,,23896,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+3850F,"National Guard Personnel, Air Force",F,01,Reserve component training and support,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+3850F,"National Guard Personnel, Air Force",F,20,Undistributed,020,Undistributed,Add,Y,,,,0,,0,0,,0,U
+3850F,"National Guard Personnel, Air Force",F,20,Undistributed,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1009F,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., AF",F,01,Health care contribution - Reserve component,300,"National Guard Personnel, Air Force",Add,Y,384233,,384233,430500,,430500,465097,,465097,U
+1009F,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., AF",F,01,Health care contribution - Reserve component,999,Undistributed,Add,Y,,,,0,,0,0,,0,U
+1009F,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., AF",F,01,Health care contribution - Reserve component,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1009F,"Medicare-Eligible Retiree Health Fund Contribution, Guard Pers., AF",F,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,01,Health care contribution - Officers,300,Space Force,Add,Y,32010,,32010,38297,,38297,46904,,46904,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,01,Health care contribution - Officers,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,01,Health care contribution - Officers,999,Undistributed,Add,Y,0,,0,0,,0,0,,0,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,02,Health care contribution - Enlisted,300,Space Force,Add,Y,35053,,35053,43677,,43677,53414,,53414,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,02,Health care contribution - Enlisted,999,Undistributed,Add,Y,0,,0,,,,0,,0,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,02,Health care contribution - Enlisted,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,20,UNDISTRIBUTED,999,Classified Programs,Add,Y,,,,,,,0,,0,U
+1010F,"Medicare-Eligible Retiree Health Fund Contribution, Space Force",F,20,UNDISTRIBUTED,999,Undistributed,Add,Y,,,,0,,0,,,,U

@@ -1,0 +1,10 @@
+Section,Total_Cost,Highest_Repeat_Line_Item,Repeat_Count,Repeat_Item_Total_Cost_Name,Repeat_Item_Total_Cost,Highest_Single_Expense_Item,Highest_Single_Expense_Cost
+Medicare/Medicaid,1680.0,,,,,,
+OM (Operations & Maintenance),349.6,Administration,11,Administration,4.0,Classified Programs,20.8
+P1 (Procurement Programs),198.6,COLUMBIA Class Submarine,34,COLUMBIA Class Submarine,15.8,Classified Programs,26.0
+M1 (Military Personnel),185.5,Classified Programs,66,Classified Programs,0.0,Basic Pay,17.2
+R1 (Research & Development),145.8,Classified Programs,10,Classified Programs,35.3,Classified Programs,18.3
+Education,82.4,,,,,,
+FY2025 (Military Construction),19.7,Unspecified Minor Construction,11,Unspecified Minor Construction,0.3,Dry Dock 3 Replacement INC,1.2
+P1R (Procurement Reserve),4.6,Aircrew Integrated Systems,2,Aircrew Integrated Systems,0.0,UH-60 Blackhawk M Model MYP,0.6
+RF1 (Revolving Fund),2.0,Industrial Operations,1,Industrial Operations,0.1,Working Capital Fund DECA,1.6

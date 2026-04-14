@@ -1,0 +1,396 @@
+Account,Account_Title,Organization,Budget_Activity,Budget_Activity_Title,AG_BSA,AG_Budget_SubActivity_BSA_Title,Line_Number,SAG_BLI,SAG_Budget_Line_Item_BLI_Title,Include_In_TOA,FY_2025_Actuals,FY_2025_Reconciliation,FY_2025_Total,FY_2026_Discretionary_Enacted,FY_2026_PL_119_21_Spend_Plan,FY_2026_Total,FY_2027_Discretionary_Request,FY_2027_Mandatory_Request,FY_2027_Total,Classification
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,11,Land Forces,010,111,Maneuver Units,Y,5576935,,5576935,4401507,361254,4762761,5309790,,5309790,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,11,Land Forces,020,112,Modular Support Brigades,Y,186224,,186224,219978,,219978,375682,,375682,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,11,Land Forces,030,113,Echelons Above Brigade,Y,833698,,833698,879419,,879419,1193028,,1193028,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,11,Land Forces,040,114,Theater Level Assets,Y,2556623,,2556623,2195156,100000,2295156,2395049,,2395049,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,11,Land Forces,050,115,Land Forces Operations Support,Y,1115390,,1115390,1299299,,1299299,1273674,,1273674,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,11,Land Forces,060,116,Aviation Assets,Y,2065586,,2065586,1708884,6476,1715360,1930557,,1930557,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,12,Land Forces Readiness,070,121,Force Readiness Operations Support,Y,8634635,,8634635,7092855,255174,7348029,7186195,,7186195,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,12,Land Forces Readiness,080,122,Land Forces Systems Readiness,Y,561814,,561814,565872,,565872,888277,,888277,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,12,Land Forces Readiness,090,123,Land Forces Depot Maintenance,Y,1360596,,1360596,152404,1420300,1572704,2022115,,2022115,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,12,Land Forces Readiness,100,124,Medical Readiness,Y,922071,,922071,836470,,836470,786815,,786815,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,13,Land Forces Readiness Support,110,131,Base Operations Support,Y,10281391,,10281391,10264056,51750,10315806,10390174,403243,10793417,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,13,Land Forces Readiness Support,120,132,"Facilities Sustainment, Restoration & Modernization",Y,4260444,,4260444,6180594,480000,6660594,5435364,9047379,14482743,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,13,Land Forces Readiness Support,130,133,Management and Operational Headquarters,Y,313112,,313112,260867,,260867,287812,,287812,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,13,Land Forces Readiness Support,140,135,Additional Activities,Y,294833,,294833,371527,,371527,383610,,383610,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,13,Land Forces Readiness Support,150,137,RESET,Y,314141,,314141,111688,,111688,117880,,117880,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,60,Combatant Command Support,160,141,US Africa Command,Y,423527,,423527,432596,,432596,693812,,693812,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,60,Combatant Command Support,170,142,US European Command,Y,361423,,361423,403379,,403379,510862,,510862,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,60,Combatant Command Support,180,143,US Southern Command,Y,272614,,272614,225546,,225546,464769,,464769,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,60,Combatant Command Support,190,144,US Forces Korea,Y,70738,,70738,77049,,77049,77775,,77775,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,CA,Cyberspace Activities,200,151,Cyberspace Activities - Cyberspace Operations,Y,414156,,414156,331467,3095,334562,366311,,366311,U
+2020A,"Operation and Maintenance, Army",A,01,Operating Forces,CA,Cyberspace Activities,210,153,Cyberspace Activities - Cybersecurity,Y,589505,7700,597205,560089,,560089,579954,,579954,U
+2020A,"Operation and Maintenance, Army",A,02,Mobilization,21,Mobility Operations,220,211,Strategic Mobility,Y,530028,,530028,134892,,134892,53602,,53602,U
+2020A,"Operation and Maintenance, Army",A,02,Mobilization,21,Mobility Operations,230,212,Army Prepositioned Stocks,Y,534694,,534694,330812,142141,472953,1125709,,1125709,U
+2020A,"Operation and Maintenance, Army",A,02,Mobilization,21,Mobility Operations,240,213,Industrial Preparedness,Y,4229,,4229,3162,,3162,3172,,3172,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,31,Accession Training,250,311,Officer Acquisition,Y,200092,,200092,172424,,172424,193530,,193530,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,31,Accession Training,260,312,Recruit Training,Y,76530,,76530,78929,,78929,70431,,70431,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,31,Accession Training,270,313,One Station Unit Training,Y,92356,,92356,88033,,88033,96115,,96115,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,31,Accession Training,280,314,Senior Reserve Officers Training Corps,Y,563108,,563108,487830,,487830,503896,,503896,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,32,Basic Skill and Advanced Training,290,321,Specialized Skill Training,Y,1073977,,1073977,944897,,944897,1204230,,1204230,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,32,Basic Skill and Advanced Training,300,322,Flight Training,Y,1452130,,1452130,1359850,,1359850,1381437,,1381437,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,32,Basic Skill and Advanced Training,310,323,Professional Development Education,Y,199784,,199784,196315,,196315,201481,,201481,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,32,Basic Skill and Advanced Training,320,324,Training Support,Y,733580,,733580,550300,,550300,609925,,609925,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,33,"Recruiting, Other Training & Education",330,331,Recruiting and Advertising,Y,768536,,768536,720864,,720864,712092,,712092,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,33,"Recruiting, Other Training & Education",340,332,Examining,Y,202505,,202505,177666,,177666,,,,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,33,"Recruiting, Other Training & Education",350,333,Off-Duty and Voluntary Education,Y,249022,,249022,181211,30000,211211,216256,,216256,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,33,"Recruiting, Other Training & Education",360,334,Civilian Education and Training,Y,217807,,217807,216863,,216863,218683,,218683,U
+2020A,"Operation and Maintenance, Army",A,03,Training and Recruiting,33,"Recruiting, Other Training & Education",370,335,Junior Reserve Officer Training Corps,Y,203863,,203863,190668,,190668,218598,,218598,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,42,Logistics Operations,390,421,Servicewide Transportation,Y,1001404,,1001404,1236070,,1236070,1483938,,1483938,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,42,Logistics Operations,400,422,Central Supply Activities,Y,919906,,919906,710581,,710581,703829,,703829,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,42,Logistics Operations,410,423,Logistic Support Activities,Y,756634,,756634,560110,,560110,634879,,634879,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,42,Logistics Operations,420,424,Ammunition Management,Y,409906,,409906,344948,,344948,525732,,525732,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,430,431,Administration,Y,508651,,508651,405425,,405425,402276,,402276,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,440,432,Servicewide Communications,Y,1847614,,1847614,2466407,,2466407,2252914,,2252914,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,450,433,Manpower Management,Y,386337,,386337,299686,,299686,324069,,324069,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,460,434,Other Personnel Support,Y,935359,,935359,853139,,853139,961851,,961851,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,470,435,Other Service Support,Y,2359327,,2359327,2026776,,2026776,2179562,,2179562,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,480,436,Army Claims Activities,Y,191151,,191151,183611,,183611,139480,,139480,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,490,437,Real Estate Management,Y,288658,,288658,294205,,294205,308271,13493,321764,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,500,438,Financial Management and Audit Readiness,Y,526444,,526444,618471,25000,643471,434778,,434778,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,43,Servicewide Support,510,43Q,Def Acquisition Workforce Development Account,Y,38153,,38153,36510,,36510,37654,,37654,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,44,Support of Other Nations,520,441,International Military Headquarters,Y,594420,,594420,664510,,664510,760520,,760520,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,44,Support of Other Nations,530,442,Misc. Support of Other Nations,Y,36920,,36920,31387,,31387,28681,,28681,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,45,Closed Account Adjustments,540,451,Closed Account Adjustments,Y,83106,,83106,,,,,,,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,45,Closed Account Adjustments,550,471,Foreign Currency Fluctuation,Y,39475,,39475,,,,,,,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,45,Closed Account Adjustments,560,493,Defense Environmental Restoration Account (DERA),Y,520259,,520259,,,,,,,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,46,Judgment Fund,570,461,Judgment Fund,Y,4992,,4992,,,,,,,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,48,Collections,580,482,Energy Savings,Y,45596,,45596,,,,,,,U
+2020A,"Operation and Maintenance, Army",A,04,Administration and Service-wide Activities,48,Collections,590,483,Agricultural and Grazing Program,Y,4063,,4063,,,,,,,U
+2020A,"Operation and Maintenance, Army",,04,,,,999,9999,Classified Programs,Y,2391931,140000,2531931,2398023,30000,2428023,3457587,,3457587,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,11,Land Forces,010,112,Modular Support Brigades,Y,9432,,9432,14651,,14651,15213,,15213,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,11,Land Forces,020,113,Echelons Above Brigade,Y,705376,,705376,694375,,694375,674766,,674766,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,11,Land Forces,030,114,Theater Level Assets,Y,133499,,133499,145390,,145390,121223,,121223,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,11,Land Forces,040,115,Land Forces Operations Support,Y,629164,,629164,666530,,666530,664612,,664612,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,11,Land Forces,050,116,Aviation Assets,Y,122640,,122640,54718,,54718,37490,,37490,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,12,Land Forces Readiness,060,121,Force Readiness Operations Support,Y,375294,,375294,428577,,428577,380473,,380473,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,12,Land Forces Readiness,070,122,Land Forces Systems Readiness,Y,45266,,45266,23783,,23783,41301,,41301,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,12,Land Forces Readiness,080,123,Land Forces Depot Maintenance,Y,46590,,46590,39337,,39337,37429,,37429,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,13,Land Forces Readiness Support,090,131,Base Operations Support,Y,569325,,569325,553779,,553779,577337,31644,608981,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,13,Land Forces Readiness Support,100,132,"Facilities Sustainment, Restoration & Modernization",Y,461261,,461261,502865,50000,552865,411093,826647,1237740,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,13,Land Forces Readiness Support,110,133,Management and Operational Headquarters,Y,23190,,23190,20531,,20531,27810,,27810,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,CA,Cyberspace Activities,120,151,Cyberspace Activities - Cyberspace Operations,Y,2241,,2241,2174,,2174,2725,,2725,U
+2080A,"Operation and Maintenance, Army Reserve",A,01,Operating forces,CA,Cyberspace Activities,130,153,Cyberspace Activities - Cybersecurity,Y,18585,,18585,19041,,19041,19422,,19422,U
+2080A,"Operation and Maintenance, Army Reserve",A,04,Administration and service-wide activities,42,Logistics Operations,140,421,Servicewide Transportation,Y,12950,,12950,14629,,14629,15237,,15237,U
+2080A,"Operation and Maintenance, Army Reserve",A,04,Administration and service-wide activities,43,Servicewide Support,150,431,Administration,Y,22098,,22098,16798,,16798,11708,,11708,U
+2080A,"Operation and Maintenance, Army Reserve",A,04,Administration and service-wide activities,43,Servicewide Support,160,432,Servicewide Communications,Y,6079,,6079,6432,,6432,4165,,4165,U
+2080A,"Operation and Maintenance, Army Reserve",A,04,Administration and service-wide activities,43,Servicewide Support,170,433,Manpower Management,Y,14912,,14912,7186,,7186,7300,,7300,U
+2080A,"Operation and Maintenance, Army Reserve",A,04,Administration and service-wide activities,43,Servicewide Support,180,434,Other Personnel Support,Y,49275,,49275,46037,,46037,63330,,63330,U
+2080A,"Operation and Maintenance, Army Reserve",A,04,Administration and service-wide activities,45,Closed Account Adjustments,190,451,Closed Account Adjustments,Y,4,,4,,,,,,,U
+2080A,"Operation and Maintenance, Army Reserve",A,04,Administration and service-wide activities,48,Collections,200,482,Energy Savings,Y,5662,,5662,,,,,,,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,11,Land Forces,010,111,Maneuver Units,Y,812398,,812398,858599,43970,902569,807777,,807777,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,11,Land Forces,020,112,Modular Support Brigades,Y,195141,,195141,210737,11966,222703,233114,,233114,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,11,Land Forces,030,113,Echelons Above Brigade,Y,813851,,813851,850330,46822,897152,1143423,,1143423,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,11,Land Forces,040,114,Theater Level Assets,Y,82156,,82156,86182,4445,90627,84598,,84598,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,11,Land Forces,050,115,Land Forces Operations Support,Y,334809,,334809,345261,13548,358809,344161,,344161,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,11,Land Forces,060,116,Aviation Assets,Y,1128409,,1128409,1114864,32087,1146951,1096948,,1096948,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,12,Land Forces Readiness,070,121,Force Readiness Operations Support,Y,690031,,690031,800413,20688,821101,864172,,864172,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,12,Land Forces Readiness,080,122,Land Forces Systems Readiness,Y,34206,,34206,34354,,34354,93367,,93367,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,12,Land Forces Readiness,090,123,Land Forces Depot Maintenance,Y,214113,,214113,179622,126474,306096,171055,,171055,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,13,Land Forces Readiness Support,100,131,Base Operations Support,Y,1229797,,1229797,1241132,,1241132,1326854,101185,1428039,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,13,Land Forces Readiness Support,110,132,"Facilities Sustainment, Restoration & Modernization",Y,1173619,,1173619,1265539,85000,1350539,1065363,1924130,2989493,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,13,Land Forces Readiness Support,120,133,Management and Operational Headquarters,Y,1301466,,1301466,1214158,,1214158,1116559,,1116559,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,CA,Cyberspace Activities,130,151,Cyberspace Activities - Cyberspace Operations,Y,5119,,5119,5136,,5136,6831,,6831,U
+2065A,"Operation and Maintenance, Army National Guard",A,01,Operating forces,CA,Cyberspace Activities,140,153,Cyberspace Activities - Cybersecurity,Y,20202,,20202,23096,,23096,24785,,24785,U
+2065A,"Operation and Maintenance, Army National Guard",A,04,Administration and service-wide activities,42,Logistics Operations,150,421,Servicewide Transportation,Y,7598,,7598,6460,,6460,6604,,6604,U
+2065A,"Operation and Maintenance, Army National Guard",A,04,Administration and service-wide activities,43,Servicewide Support,160,431,Administration,Y,52447,,52447,52498,,52498,50221,,50221,U
+2065A,"Operation and Maintenance, Army National Guard",A,04,Administration and service-wide activities,43,Servicewide Support,170,432,Servicewide Communications,Y,20656,,20656,9373,,9373,24846,,24846,U
+2065A,"Operation and Maintenance, Army National Guard",A,04,Administration and service-wide activities,43,Servicewide Support,180,434,Other Personnel Support,Y,285112,,285112,261622,,261622,239142,,239142,U
+2065A,"Operation and Maintenance, Army National Guard",A,04,Administration and service-wide activities,43,Servicewide Support,190,437,Real Estate Management,Y,3828,,3828,3891,,3891,4004,,4004,U
+0810A,"Environmental Restoration, Army",A,01,Department of the Army,49,Defense Environmental Restoration Fund,050,493,"Environmental Restoration, Army",Y,,,,190870,,190870,282444,,282444,U
+2099A,Counter-Islamic State of Iraq and Syria Train and Equip,A,01,Counter-ISIL Train and Equip Fund (CTEF),27,Defense Forces,010,110,IRAQ,Y,380758,,380758,212516,,212516,118899,,118899,U
+2099A,Counter-Islamic State of Iraq and Syria Train and Equip,A,01,Counter-ISIL Train and Equip Fund (CTEF),27,Defense Forces,020,120,SYRIA,Y,147941,,147941,130000,,130000,130000,,130000,U
+2099A,Counter-Islamic State of Iraq and Syria Train and Equip,A,01,Counter-ISIL Train and Equip Fund (CTEF),27,Defense Forces,030,150,Lebanon,Y,,,,,,,36000,,36000,U
+2099A,Counter-Islamic State of Iraq and Syria Train and Equip,A,01,Counter-ISIL Train and Equip Fund (CTEF),27,Defense Forces,040,160,Jordan,Y,,,,,,,18200,,18200,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,01,Air Operations,010,1A1A,Mission and Other Flight Operations,Y,7552879,,7552879,7598918,,7598918,8324572,,8324572,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,01,Air Operations,020,1A2A,Fleet Air Training,Y,2675309,,2675309,2862784,,2862784,3128764,,3128764,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,01,Air Operations,030,1A4N,Air Systems Support,Y,1442835,,1442835,1411219,,1411219,1469165,,1469165,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,01,Air Operations,040,1A5A,Aircraft Depot Maintenance,Y,1762081,,1762081,1606926,110000,1716926,2219583,,2219583,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,01,Air Operations,050,1A9A,Aviation Logistics,Y,1996396,,1996396,2147902,,2147902,2664360,514853,3179213,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,02,Ship Operations,060,1B1B,Mission and Other Ship Operations,Y,8181824,,8181824,7051424,7100,7058524,7424752,,7424752,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,02,Ship Operations,070,1B2B,Ship Operations Support & Training,Y,1626243,,1626243,1651115,,1651115,1713065,,1713065,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,02,Ship Operations,080,1B4B,Ship Depot Maintenance,Y,12262555,,12262555,13543112,,13543112,14292873,,14292873,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,02,Ship Operations,090,1B5B,Ship Depot Operations Support,Y,2680723,,2680723,2572950,227969,2800919,2597722,,2597722,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,100,1C1C,Combat Communications and Electronic Warfare,Y,1864024,,1864024,1791897,,1791897,1821744,,1821744,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,110,1C1M,Medical Readiness,Y,,,,597306,,597306,661800,,661800,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,120,1C3C,Space Systems and Surveillance,Y,508623,,508623,449923,,449923,572000,,572000,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,130,1C4C,Warfare Tactics,Y,991245,,991245,988922,,988922,1038456,,1038456,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,140,1C5C,Operational Meteorology and Oceanography,Y,469575,,469575,473846,,473846,496272,,496272,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,150,1C6C,Combat Support Forces,Y,2558720,,2558720,2253249,69322,2322571,2476987,,2476987,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,160,1C7C,Equipment Maintenance and Depot Operations Support,Y,49284,,49284,61434,,61434,62570,,62570,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,170,1CCH,Combatant Commanders Core Operations,Y,114862,,114862,109187,,109187,105379,,105379,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,180,1CCM,Combatant Commanders Direct Mission Support,Y,411589,2521,414110,265626,632820,898446,1994139,,1994139,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1C,Combat Operations/Support,190,1CCY,Cyberspace Activities,Y,577936,,577936,605421,21871,627292,662040,,662040,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1D,Weapons Support,200,1D2D,Strategic and Regional Strike Deterrence,Y,1869597,,1869597,1825723,220578,2046301,2220083,,2220083,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1D,Weapons Support,210,1D4D,Weapons Maintenance,Y,1658594,,1658594,1303637,731540,2035177,1833006,,1833006,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,1D,Weapons Support,220,1D7D,Other Weapon Systems Support,Y,770905,,770905,795039,35000,830039,834752,,834752,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,BS,Base Support,230,BSIT,Enterprise Information,Y,1799825,,1799825,2161697,5000,2166697,2196932,,2196932,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,BS,Base Support,240,BSM1,"Sustainment, Restoration and Modernization",Y,5913210,,5913210,3944430,1719650,5664080,4891828,4131293,9023121,U
+1804N,"Operation and Maintenance, Navy",N,01,Operating forces,BS,Base Support,250,BSS1,Base Operating Support,Y,6264595,,6264595,5991924,165024,6156948,6069456,,6069456,U
+1804N,"Operation and Maintenance, Navy",N,02,Mobilization,2A,Ready Reserve and Prepositioning Force,260,2A1F,Ship Prepositioning and Surge,Y,491512,,491512,369408,3500,372908,378073,,378073,U
+1804N,"Operation and Maintenance, Navy",N,02,Mobilization,2A,Ready Reserve and Prepositioning Force,270,2A2F,Ready Reserve Force,Y,780558,,780558,785052,150000,935052,881029,,881029,U
+1804N,"Operation and Maintenance, Navy",N,02,Mobilization,2B,Activations/Inactivations,280,2B2G,Ship Activations/Inactivations,Y,988958,,988958,587465,,587465,831641,,831641,U
+1804N,"Operation and Maintenance, Navy",N,02,Mobilization,2C,Mobilization Preparation,290,2C1H,Expeditionary Health Services Systems,Y,162441,,162441,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,02,Mobilization,2C,Mobilization Preparation,300,2C3H,Coast Guard Support,Y,20961,,20961,21432,,21432,27729,,27729,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3A,Accession Training,310,3A1J,Officer Acquisition,Y,204266,,204266,202381,,202381,198743,,198743,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3A,Accession Training,320,3A2J,Recruit Training,Y,25630,,25630,16945,,16945,17813,,17813,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3A,Accession Training,330,3A3J,Reserve Officers Training Corps,Y,174492,,174492,164348,,164348,193797,,193797,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3B,Basic Skill and Advanced Training,340,3B1K,Specialized Skill Training,Y,1185306,,1185306,1013647,,1013647,1163755,,1163755,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3B,Basic Skill and Advanced Training,350,3B3K,Professional Development Education,Y,349428,,349428,262964,,262964,280521,,280521,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3B,Basic Skill and Advanced Training,360,3B4K,Training Support,Y,434319,,434319,463572,,463572,504282,,504282,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3C,Recruiting and Other Training & Education,370,3C1L,Recruiting and Advertising,Y,282091,,282091,306623,,306623,261140,,261140,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3C,Recruiting and Other Training & Education,380,3C3L,Off-Duty and Voluntary Education,Y,77274,,77274,914,25000,25914,75600,,75600,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3C,Recruiting and Other Training & Education,390,3C4L,Civilian Education and Training,Y,70226,,70226,63422,,63422,60191,,60191,U
+1804N,"Operation and Maintenance, Navy",N,03,Training and recruiting,3C,Recruiting and Other Training & Education,400,3C5L,Junior ROTC,Y,56378,,56378,25334,,25334,60219,,60219,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4A,Servicewide Support,410,4A1M,Administration,Y,1433863,,1433863,1318151,8050,1326201,1396823,,1396823,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4A,Servicewide Support,420,4A2W,Recycling,Y,222,,222,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4A,Servicewide Support,430,4A3M,Civilian Manpower and Personnel Management,Y,250907,,250907,237958,,237958,244308,,244308,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4A,Servicewide Support,440,4A3W,Forestry Program,Y,1205,,1205,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4A,Servicewide Support,450,4A4M,Military Manpower and Personnel Management,Y,661970,,661970,630595,,630595,642260,,642260,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4A,Servicewide Support,460,4A8M,Medical Activities,Y,318786,,318786,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4A,Servicewide Support,470,4AFC,Foreign Currency Fluctuation,Y,260,,260,,,,5517,,5517,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4B,Logistics Operations & Technical Support,480,4B1A,Def Acquisition Workforce Development Account,Y,64155,,64155,52752,,52752,60440,,60440,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4B,Logistics Operations & Technical Support,490,4B1N,Servicewide Transportation,Y,441408,,441408,281935,,281935,279134,,279134,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4B,Logistics Operations & Technical Support,500,4B2E,Environmental Programs,Y,342797,,342797,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4B,Logistics Operations & Technical Support,510,4B2N,"Planning, Engineering, and Program Support",Y,612531,,612531,533675,208430,742105,605530,,605530,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4B,Logistics Operations & Technical Support,520,4B3N,"Acquisition, Logistics, and Oversight",Y,857834,,857834,848597,,848597,822580,,822580,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4C,Investigations and Security Programs,530,4C1P,Investigative and Security Services,Y,1074552,,1074552,990293,20366,1010659,1076664,,1076664,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,580,4S09,HQ Transition Process Management,Y,258,,258,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,590,4S11,USMC METOC-3,Y,832,,832,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,600,4S52,DON TRR-1 (Afloat),Y,225,,225,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,610,4S59,DON HQ Transition Process Management,Y,2658,,2658,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,620,4S60,DON UAS Video 5 (Afloat),Y,2462,,2462,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,630,4S61,Spectrum Efficient National Surveillance Radar,Y,244,,244,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,640,4S63,CBRS (3550 MHz),Y,195,,195,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,650,4S64,AMBIT Pre-Auction,Y,286,,286,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,660,4S71,DON CIO Oversight and Implementation,Y,1269,,1269,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,670,4S75,USN Training Ranges - Spectrum Sensing,Y,50,,50,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,680,4S81,USN Engineering and Sharing Support,Y,422,,422,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,690,4S82,USN EME Sensing and Monitoring,Y,76,,76,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,700,4S83,USN CBRS Sharing Ecosystem Assessment,Y,25,,25,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,710,4S85,USN EMI Recognition,Y,25,,25,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,720,4S89,DON Oversight and Implementation,Y,347,,347,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,730,4S90,SPP-7/8Ghz,Y,4088,,4088,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4S,Spectrum/Telecommunications,740,4S91,SPP-L3G-ADSSD,Y,2949,,2949,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4X,Cancelled Accounts,750,4EMM,Cancelled Account Adjustments,Y,43298,,43298,,,,,,,U
+1804N,"Operation and Maintenance, Navy",N,04,Administration and service-wide activities,4X,Cancelled Accounts,760,4EPJ,Judgement Fund,Y,14708,,14708,,,,,,,U
+1804N,"Operation and Maintenance, Navy",,04,,,,999,9999,Classified Programs,Y,662568,,662568,736405,,736405,728457,,728457,U
+1106N,"Operation and Maintenance, Marine Corps",N,01,Operating forces,1A,Expeditionary Forces,010,1A1A,Operational Forces,Y,1810711,,1810711,1909404,507851,2417255,3113102,,3113102,U
+1106N,"Operation and Maintenance, Marine Corps",N,01,Operating forces,1A,Expeditionary Forces,020,1A2A,Field Logistics,Y,1938608,,1938608,1935840,20000,1955840,2807429,,2807429,U
+1106N,"Operation and Maintenance, Marine Corps",N,01,Operating forces,1A,Expeditionary Forces,030,1A3A,Depot Maintenance,Y,221614,,221614,236,286000,286236,344750,,344750,U
+1106N,"Operation and Maintenance, Marine Corps",N,01,Operating forces,1B,USMC Prepositioning,040,1B1B,Maritime Prepositioning,Y,152035,,152035,175091,,175091,280543,,280543,U
+1106N,"Operation and Maintenance, Marine Corps",N,01,Operating forces,1C,Combat Operations/Support,050,1CCY,Cyberspace Activities,Y,265358,,265358,344706,1935,346641,351199,,351199,U
+1106N,"Operation and Maintenance, Marine Corps",N,01,Operating forces,BS,Base Support,060,BSM1,"Sustainment, Restoration & Modernization",Y,1170994,,1170994,2209890,230480,2440370,3629008,5575117,9204125,U
+1106N,"Operation and Maintenance, Marine Corps",N,01,Operating forces,BS,Base Support,070,BSS1,Base Operating Support,Y,2947132,,2947132,2775003,139550,2914553,3175027,,3175027,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3A,Accession Training,080,3A1C,Recruit Training,Y,26658,,26658,26350,,26350,45521,,45521,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3A,Accession Training,090,3A2C,Officer Acquisition,Y,1263,,1263,1282,,1282,1346,,1346,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3B,Basic Skill and Advanced Training,100,3B1D,Specialized Skill Training,Y,121350,,121350,114526,,114526,242438,,242438,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3B,Basic Skill and Advanced Training,110,3B3D,Professional Development Education,Y,61911,,61911,58696,,58696,64994,,64994,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3B,Basic Skill and Advanced Training,120,3B4D,Training Support,Y,538947,,538947,538812,,538812,838526,,838526,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3C,Recruiting and Other Training & Education,130,3C1F,Recruiting and Advertising,Y,231422,,231422,235804,,235804,363287,,363287,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3C,Recruiting and Other Training & Education,140,3C2F,Off-Duty and Voluntary Education,Y,47416,,47416,27850,15000,42850,47840,,47840,U
+1106N,"Operation and Maintenance, Marine Corps",N,03,Training and recruiting,3C,Recruiting and Other Training & Education,150,3C3F,Junior ROTC,Y,29579,,29579,30808,,30808,33292,,33292,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4A,Servicewide Support,160,4A1W,Agriculture and Grazing,Y,811,,811,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4A,Servicewide Support,170,4A2W,Recycling,Y,8709,,8709,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4A,Servicewide Support,180,4A3G,Servicewide Transportation,Y,96017,,96017,87509,,87509,154026,,154026,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4A,Servicewide Support,190,4A4G,Administration,Y,435590,,435590,423691,,423691,416349,,416349,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,210,4A3W,Forestry Program,Y,632,,632,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,220,4S36,DON UAS Video 5,Y,5520,,5520,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,230,4S54,DoN TRR 3 Transition Support,Y,1547,,1547,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,240,4S67,HQMC Transition Management Support,Y,164,,164,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,250,4S68,USMC Commercial Industry Deployment Coordination,Y,200,,200,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,260,4S69,USMC G/ATOR System Modifications,Y,8926,,8926,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,270,4S70,USMC Engineering Analysis & Operational Compliance,Y,105,,105,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,280,4S86,USMC Engineering and Sharing Support,Y,102,,102,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4S,Spectrum/Telecommunications,290,4S87,USMC EME Sensing and Monitoring,Y,248,,248,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",N,04,Administration and Service-wide Activities,4X,Cancelled Accounts,300,4EMM,Cancelled Account Adjustment,Y,5261,,5261,,,,,,,U
+1106N,"Operation and Maintenance, Marine Corps",,04,,,,999,9999,Classified Programs,Y,64537,,64537,73788,,73788,80140,,80140,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,01,Air Operations,010,1A1A,Mission and Other Flight Operations,Y,703855,,703855,741345,,741345,787622,,787622,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,01,Air Operations,020,1A4N,Air Systems Support,Y,9002,,9002,9972,,9972,9733,,9733,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,01,Air Operations,030,1A5A,Aircraft Depot Maintenance,Y,137171,,137171,204603,,204603,215547,,215547,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,01,Air Operations,040,1A9A,Aviation Logistics,Y,29360,,29360,24469,,24469,27703,,27703,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,1C,Combat Operations/Support,050,1C1C,Combat Communications,Y,19513,,19513,19698,,19698,19652,,19652,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,1C,Combat Operations/Support,060,1C6C,Combat Support Forces,Y,193949,,193949,186446,,186446,196376,,196376,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,1C,Combat Operations/Support,070,1CCY,Cyberspace Activities,Y,370,,370,294,,294,288,,288,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,BS,Base Support,080,BSIT,Enterprise Information,Y,30814,,30814,33414,,33414,30811,,30811,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,BS,Base Support,090,BSMR,"Sustainment, Restoration and Modernization",Y,50327,,50327,58213,,58213,59386,,59386,U
+1806N,"Operation and Maintenance, Navy Reserve",N,01,Operating Forces,BS,Base Support,100,BSSR,Base Operating Support,Y,116356,,116356,118361,,118361,111177,,111177,U
+1806N,"Operation and Maintenance, Navy Reserve",N,04,Administration and Service-wide Activities,4A,Servicewide Support,110,4A1M,Administration,Y,1640,,1640,2539,,2539,2747,,2747,U
+1806N,"Operation and Maintenance, Navy Reserve",N,04,Administration and Service-wide Activities,4A,Servicewide Support,120,4A4M,Military Manpower and Personnel Management,Y,13004,,13004,13949,,13949,14944,,14944,U
+1806N,"Operation and Maintenance, Navy Reserve",N,04,Administration and Service-wide Activities,4B,Logistics Operations & Technical Support,130,4B3N,Acquisition and Program Management,Y,2175,,2175,1517,,1517,1230,,1230,U
+1806N,"Operation and Maintenance, Navy Reserve",N,04,Administration and Service-wide Activities,4X,Cancelled Accounts,140,4EMM,Cancelled Account Adjustments,Y,11,,11,,,,,,,U
+1107N,"Operation and Maintenance, Marine Corps Reserve",N,01,Operating forces,1A,Expeditionary Forces,010,1A1A,Operating Forces,Y,131374,,131374,117987,10854,128841,142416,,142416,U
+1107N,"Operation and Maintenance, Marine Corps Reserve",N,01,Operating forces,1A,Expeditionary Forces,020,1A3A,Depot Maintenance,Y,22039,,22039,22686,,22686,23213,,23213,U
+1107N,"Operation and Maintenance, Marine Corps Reserve",N,01,Operating forces,BS,Base Support,030,BSM1,"Sustainment, Restoration and Modernization",Y,46803,,46803,47517,,47517,100709,,100709,U
+1107N,"Operation and Maintenance, Marine Corps Reserve",N,01,Operating forces,BS,Base Support,040,BSS1,Base Operating Support,Y,118994,,118994,119909,,119909,128902,,128902,U
+1107N,"Operation and Maintenance, Marine Corps Reserve",N,04,Administration and service-wide activities,4A,Servicewide Support,050,4A4G,Administration,Y,11390,,11390,11774,,11774,9440,,9440,U
+1107N,"Operation and Maintenance, Marine Corps Reserve",N,04,Administration and service-wide activities,4X,Cancelled Accounts,060,4EMM,Cancelled Account Adjustment,Y,18,,18,,,,,,,U
+0810N,"Environmental Restoration, Navy",N,02,Department of the Navy,45,Closed Account Adjustments,060,044G,"Environmental Restoration, Navy",Y,,,,368949,,368949,305246,,305246,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,010,011A,Primary Combat Forces,Y,1182002,,1182002,1352125,94651,1446776,1798263,,1798263,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,020,011C,Combat Enhancement Forces,Y,2518161,,2518161,2659464,14289,2673753,3117205,,3117205,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,030,011D,"Air Operations Training (OJT, Maintain Skills)",Y,1566621,350000,1916621,1594267,188579,1782846,2770832,,2770832,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,040,011M,Depot Purchase Equipment Maintenance,Y,4387243,,4387243,4558562,680538,5239100,6092998,,6092998,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,050,011R,"Facilities Sustainment, Restoration & Modernization",Y,4944917,,4944917,2953608,2785104,5738712,6100395,5395743,11496138,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,060,011V,Cyberspace Sustainment,Y,216178,,216178,278374,,278374,320297,,320297,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,070,011W,Contractor Logistics Support and System Support,Y,10330453,,10330453,9231358,1087776,10319134,11647415,206216,11853631,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,080,011Y,Flying Hour Program,Y,6531437,,6531437,5947192,159679,6106871,7265480,174000,7439480,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1F,Air Operations,090,011Z,Base Support,Y,11367134,,11367134,11088908,93000,11181908,11318037,,11318037,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1G,Combat Related Operations,100,012A,Global C3I and Early Warning,Y,1318751,,1318751,1239088,31811,1270899,1214408,,1214408,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1G,Combat Related Operations,110,012C,Other Combat Ops Spt Programs,Y,1756902,,1756902,1834141,13900,1848041,2146977,,2146977,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1G,Combat Related Operations,120,012D,Cyberspace Activities,Y,839984,,839984,857145,3484,860629,1155815,,1155815,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1G,Combat Related Operations,130,012F,Tactical Intel and Other Special Activities,Y,1801838,,1801838,1733598,2000,1735598,1992280,,1992280,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,1G,Combat Related Operations,140,012Q,Medical Readiness,Y,510036,,510036,539000,,539000,561626,,561626,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,20,COCOM,150,015C,US NORTHCOM/NORAD,Y,299791,,299791,256248,,256248,746165,,746165,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,20,COCOM,160,015D,US STRATCOM,Y,522195,,522195,578864,,578864,656448,,656448,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,20,COCOM,170,015F,US CENTCOM,Y,405143,1500,406643,360111,,360111,405438,,405438,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,20,COCOM,180,015G,US SOCOM,Y,39779,,39779,28968,,28968,42261,,42261,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,20,COCOM,190,015H,US TRANSCOM,Y,206,,206,1053,,1053,694,,694,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,20,COCOM,200,015U,CENTCOM Cyberspace Sustainment,Y,1675,,1675,928,,928,,,,U
+3400F,"Operation and Maintenance, Air Force",F,01,Operating forces,20,COCOM,210,015X,USSPACECOM,Y,396972,,396972,355156,,355156,555147,,555147,U
+3400F,"Operation and Maintenance, Air Force",,01,,,,999,9999,Classified Programs,Y,54298,,54298,73482,,73482,81694,,81694,U
+3400F,"Operation and Maintenance, Air Force",F,02,Mobilization,21,Mobility Operations,220,021A,Airlift Operations,Y,4311850,,4311850,3324356,34463,3358819,3782668,,3782668,U
+3400F,"Operation and Maintenance, Air Force",F,02,Mobilization,21,Mobility Operations,230,021D,Mobilization Preparedness,Y,241657,,241657,279205,,279205,321889,,321889,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,31,Accession Training,240,031A,Officer Acquisition,Y,260009,,260009,241486,,241486,267971,,267971,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,31,Accession Training,250,031B,Recruit Training,Y,37951,,37951,29335,,29335,70462,,70462,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,31,Accession Training,260,031D,Reserve Officers Training Corps (ROTC),Y,137758,,137758,131342,,131342,143686,,143686,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,32,Basic Skill and Advanced Training,270,032A,Specialized Skill Training,Y,614944,,614944,522068,,522068,589549,,589549,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,32,Basic Skill and Advanced Training,280,032B,Flight Training,Y,806794,,806794,1040465,,1040465,1122297,,1122297,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,32,Basic Skill and Advanced Training,290,032C,Professional Development Education,Y,298783,,298783,284442,,284442,280908,,280908,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,32,Basic Skill and Advanced Training,300,032D,Training Support,Y,190576,,190576,181966,,181966,192608,,192608,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,33,"Recruiting, Other Training & Education",310,033A,Recruiting and Advertising,Y,197413,,197413,256687,,256687,254720,,254720,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,33,"Recruiting, Other Training & Education",320,033B,Examining,Y,7745,,7745,6990,,6990,7261,,7261,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,33,"Recruiting, Other Training & Education",330,033C,Off-Duty and Voluntary Education,Y,233434,,233434,222340,30000,252340,232768,,232768,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,33,"Recruiting, Other Training & Education",340,033D,Civilian Education and Training,Y,367924,,367924,336980,,336980,354678,,354678,U
+3400F,"Operation and Maintenance, Air Force",F,03,Training and recruiting,33,"Recruiting, Other Training & Education",350,033E,Junior ROTC,Y,77608,,77608,5000,,5000,114790,,114790,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,42,Logistics Operations,360,041A,Logistics Operations,Y,1091042,,1091042,1136084,6932,1143016,1124763,,1124763,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,42,Logistics Operations,370,041B,Technical Support Activities,Y,138993,,138993,154929,,154929,159721,,159721,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,50,Servicewide Activities,380,042A,Administration,Y,1259409,,1259409,1218129,,1218129,1292758,,1292758,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,50,Servicewide Activities,390,042B,Servicewide Communications,Y,55704,,55704,43270,153,43423,43892,,43892,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,50,Servicewide Activities,400,042D,Defense Environmental Restoration Account,Y,330531,,330531,,,,,,,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,50,Servicewide Activities,410,042G,Other Servicewide Activities,Y,1814444,,1814444,1628727,,1628727,1666547,,1666547,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,50,Servicewide Activities,420,042I,Civil Air Patrol,Y,56500,,56500,57900,,57900,32984,,32984,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,50,Servicewide Activities,430,042W,Def Acquisition Workforce Development account,Y,49251,,49251,48741,,48741,58936,,58936,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,51,Security Programs,440,043A,Security Programs,Y,226703,,226703,203919,,203919,202400,,202400,U
+3400F,"Operation and Maintenance, Air Force",F,04,Administration and service-wide activities,52,Support to Other Nations,450,044A,International Support,Y,85073,,85073,89212,,89212,77853,,77853,U
+3400F,"Operation and Maintenance, Air Force",,04,,,,999,9999,Classified Programs,Y,1309070,,1309070,1541362,,1541362,1653652,,1653652,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,010,012A,Global C3I & Early Warning,Y,611816,,611816,788686,795,789481,1056824,,1056824,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,020,013A,Space Launch Operations,Y,357148,,357148,395571,,395571,415322,,415322,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,030,013C,Space Operations,Y,915123,,915123,872247,,872247,1266939,,1266939,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,040,013E,Education & Training,Y,217046,,217046,286225,,286225,783168,,783168,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,050,013F,Special programs,Y,378766,,378766,394567,6390,400957,733761,,733761,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,060,013M,Depot Maintenance,Y,68192,,68192,67126,,67126,83803,,83803,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,070,013R,"Facilities Sustainment, Restoration & Modernization",Y,529024,,529024,550682,20000,570682,1384326,414314,1798640,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,080,013W,Contractor Logistics and System Support,Y,1337074,,1337074,1480242,,1480242,2096381,,2096381,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1F,Air Operations,090,013Z,Space Operations -BOS,Y,238975,,238975,232238,15000,247238,551196,,551196,U
+3410F,"Operation and Maintenance, Space Force",F,01,OPERATING FORCES,1H,Space Operations,100,013D,Cyberspace Activities,Y,123030,,123030,135512,,135512,289958,,289958,U
+3410F,"Operation and Maintenance, Space Force",,01,,,,999,9999,Classified Programs,Y,86550,,86550,271794,,271794,118478,,118478,U
+3410F,"Operation and Maintenance, Space Force",F,04,Administration and Service-Wide Activities,1F,Air Operations,110,041A,Logistics Operations,Y,29389,,29389,35889,,35889,36164,,36164,U
+3410F,"Operation and Maintenance, Space Force",F,04,Administration and Service-Wide Activities,50,Servicewide Activities,120,042A,Administration,Y,159080,,159080,168869,,168869,449597,,449597,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,01,Operating forces,1F,Air Operations,010,011A,Primary Combat Forces,Y,1947376,,1947376,1918257,,1918257,2138964,,2138964,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,01,Operating forces,1F,Air Operations,020,011G,Mission Support Operations,Y,193738,,193738,205201,,205201,217542,,217542,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,01,Operating forces,1F,Air Operations,030,011M,Depot Purchase Equipment Maintenance,Y,554199,,554199,702575,25642,728217,787861,,787861,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,01,Operating forces,1F,Air Operations,040,011R,"Facilities Sustainment, Restoration & Modernization",Y,133960,,133960,193802,,193802,187022,77897,264919,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,01,Operating forces,1F,Air Operations,050,011W,Contractor Logistics Support and System Support,Y,519309,,519309,493324,34951,528275,654233,,654233,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,01,Operating forces,1F,Air Operations,060,011Z,Base Support,Y,550465,,550465,585430,,585430,632638,,632638,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,01,Operating forces,1G,Combat Related Operations,070,012D,Cyberspace Activities,Y,2325,,2325,2484,,2484,1655,,1655,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,04,Administration and service-wide activities,53,Servicewide Activities,080,042A,Administration,Y,95018,,95018,98418,,98418,100998,,100998,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,04,Administration and service-wide activities,53,Servicewide Activities,090,042J,Recruiting and Advertising,Y,10208,,10208,10618,,10618,11620,,11620,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,04,Administration and service-wide activities,53,Servicewide Activities,100,042K,Military Manpower and Pers Mgmt (ARPC),Y,16084,,16084,14951,,14951,15893,,15893,U
+3740F,"Operation and Maintenance, Air Force Reserve",F,04,Administration and service-wide activities,53,Servicewide Activities,110,042M,Audiovisual,Y,545,,545,521,,521,561,,561,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,01,Air Operations,010,011F,Aircraft Operations,Y,2624067,,2624067,2409063,100000,2509063,2744277,,2744277,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,01,Air Operations,020,011G,Mission Support Operations,Y,647659,,647659,633774,,633774,663367,,663367,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,01,Air Operations,030,011M,Depot Purchase Equipment Maintenance,Y,900498,,900498,1003171,28275,1031446,1210460,,1210460,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,01,Air Operations,040,011R,"Facilities Sustainment, Restoration & Modernization",Y,441474,,441474,550996,27073,578069,531241,212131,743372,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,01,Air Operations,050,011W,Contractor Logistics Support and System Support,Y,1306424,,1306424,1258081,195346,1453427,1632461,,1632461,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,01,Air Operations,060,011Z,Base Support,Y,1205193,,1205193,1108157,,1108157,1128729,,1128729,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,1F,Air Operations,070,011V,Cyberspace Sustainment,Y,12711,,12711,16134,,16134,26354,,26354,U
+3840F,"Operation and Maintenance, Air National Guard",F,01,Operating Forces,1G,Combat Related Operations,080,012D,Cyberspace Activities,Y,25245,,25245,122146,,122146,81720,,81720,U
+3840F,"Operation and Maintenance, Air National Guard",F,04,Administration and Service-wide Activities,53,Servicewide Activities,090,042A,Administration,Y,64465,,64465,81998,,81998,64249,,64249,U
+3840F,"Operation and Maintenance, Air National Guard",F,04,Administration and Service-wide Activities,53,Servicewide Activities,100,042J,Recruiting and Advertising,Y,48286,,48286,50451,,50451,47831,,47831,U
+0810F,"Environmental Restoration, Air Force",F,03,Department of the Air Force,45,Closed Account Adjustments,070,042G,"Environmental Restoration, Air Force",Y,,,,396149,,396149,320060,,320060,U
+0100D,"Operation and Maintenance, Defense-Wide",TJS,01,Operating forces,1P,Defensewide Activities,010,1PL1,Joint Chiefs of Staff,Y,461533,,461533,407267,,407267,534218,11530,545748,U
+0100D,"Operation and Maintenance, Defense-Wide",TJS,01,Operating forces,1P,Defensewide Activities,020,8PL1,Joint Chiefs of Staff - JTEEP,Y,682528,,682528,945232,20000,965232,1393798,,1393798,U
+0100D,"Operation and Maintenance, Defense-Wide",TJS,01,Operating forces,1P,Defensewide Activities,030,8PL2,Joint Chiefs of Staff - CYBER,Y,8991,,8991,8947,,8947,9103,,9103,U
+0100D,"Operation and Maintenance, Defense-Wide",OSD,01,Operating forces,4G,Defensewide Activities,040,1GTM,Office of the Secretary of Defense - PSYOP,Y,249710,,249710,207636,18000,225636,325609,,325609,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,01,Operating forces,1P,Defensewide Activities,050,1PL6,Special Operations Command Combat Development Activities,Y,2124494,,2124494,2116337,362552,2478889,2589383,,2589383,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,01,Operating forces,1P,Defensewide Activities,060,1PL7,Special Operations Command Maintenance,Y,1258776,,1258776,1309751,55210,1364961,1388865,,1388865,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,01,Operating forces,1P,Defensewide Activities,070,1PLM,Special Operations Command Management/Operational Headquarters,Y,194646,,194646,181023,,181023,180691,,180691,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,01,Operating forces,1P,Defensewide Activities,080,1PLR,Special Operations Command Theater Forces,Y,3408381,,3408381,3337062,353115,3690177,3695859,,3695859,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,01,Operating forces,1P,Defensewide Activities,090,1PLS,Special Operations Command Cyberspace Activities,Y,52343,,52343,75473,,75473,78512,,78512,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,01,Operating forces,1P,Defensewide Activities,100,1PLU,Special Operations Command Intelligence,Y,1277430,,1277430,1172626,111200,1283826,1130849,,1130849,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,01,Operating forces,1P,Defensewide Activities,110,1PLV,Special Operations Command Operational Support,Y,1434368,,1434368,1449942,196603,1646545,1796851,,1796851,U
+0100D,"Operation and Maintenance, Defense-Wide",CYBER,01,Operating forces,1P,Defensewide Activities,120,012D,Cyberspace Operations,Y,1384475,,1384475,1311113,316701,1627814,1880381,,1880381,U
+0100D,"Operation and Maintenance, Defense-Wide",CYBER,01,Operating forces,1P,Defensewide Activities,130,015E,USCYBERCOM Headquarters,Y,314565,,314565,312253,31765,344018,303726,,303726,U
+0100D,"Operation and Maintenance, Defense-Wide",DAU,03,Training and recruiting,3E,Defensewide Activities,140,3EV2,Defense Acquisition University,Y,184111,,184111,171825,,171825,193017,15084,208101,U
+0100D,"Operation and Maintenance, Defense-Wide",TJS,03,Training and recruiting,33,"Recruiting, Other Training & Education",150,3PL1,Joint Chiefs of Staff,Y,128399,,128399,119223,,119223,173748,,173748,U
+0100D,"Operation and Maintenance, Defense-Wide",SOCOM,03,Training and recruiting,3E,Defensewide Activities,160,3EV8,Special Operations Command/Professional Development Education,Y,31345,,31345,28326,,28326,30040,,30040,U
+0100D,"Operation and Maintenance, Defense-Wide",CMP,04,Administration and service-wide activities,4G,Defensewide Activities,170,4GT3,Civil Military Programs,Y,269600,,269600,256284,,256284,118488,,118488,U
+0100D,"Operation and Maintenance, Defense-Wide",DCAA,04,Administration and service-wide activities,4G,Defensewide Activities,180,4GDC,Defense Contract Audit Agency - CYBER,Y,4858,,4858,3844,,3844,3825,,3825,U
+0100D,"Operation and Maintenance, Defense-Wide",DCAA,04,Administration and service-wide activities,4G,Defensewide Activities,190,4GT6,Defense Contract Audit Agency,Y,654554,,654554,630538,,630538,611600,,611600,U
+0100D,"Operation and Maintenance, Defense-Wide",DCMA,04,Administration and service-wide activities,4G,Defensewide Activities,200,4GTO,Defense Contract Management Agency,Y,1522859,,1522859,1431929,,1431929,1462988,152720,1615708,U
+0100D,"Operation and Maintenance, Defense-Wide",DCMA,04,Administration and service-wide activities,4G,Defensewide Activities,210,4GTP,Defense Contract Management Agency - CYBER,Y,41411,,41411,42858,,42858,42367,,42367,U
+0100D,"Operation and Maintenance, Defense-Wide",DCSA,04,Administration and service-wide activities,4G,Defensewide Activities,220,4GTE,Defense Counterintelligence and Security Agency,Y,901872,,901872,1113055,,1113055,1035974,,1035974,U
+0100D,"Operation and Maintenance, Defense-Wide",DCSA,04,Administration and service-wide activities,4G,Defensewide Activities,240,4GTG,Defense Counterintelligence and Security Agency - CYBER,Y,9271,,9271,10558,,10558,16885,,16885,U
+0100D,"Operation and Maintenance, Defense-Wide",DHRA,04,Administration and service-wide activities,4G,Defensewide Activities,250,4GSE,Defense Human Resources Activity - CYBER,Y,39004,,39004,46212,,46212,49611,,49611,U
+0100D,"Operation and Maintenance, Defense-Wide",DHRA,04,Administration and service-wide activities,4G,Defensewide Activities,260,4GT8,Defense Human Resources Activity,Y,1021051,,1021051,989323,10000,999323,1505352,,1505352,U
+0100D,"Operation and Maintenance, Defense-Wide",DISA,04,Administration and service-wide activities,4G,Defensewide Activities,290,4GT9,Defense Information Systems Agency,Y,2635636,,2635636,2955565,53000,3008565,3873222,12385145,16258367,U
+0100D,"Operation and Maintenance, Defense-Wide",DISA,04,Administration and service-wide activities,4G,Defensewide Activities,300,4GU9,Defense Information Systems Agency - CYBER,Y,489914,,489914,539413,,539413,602017,,602017,U
+0100D,"Operation and Maintenance, Defense-Wide",DLSA,04,Administration and service-wide activities,4G,Defensewide Activities,310,4GTA,Defense Legal Services Agency,Y,190176,,190176,154935,,154935,147620,,147620,U
+0100D,"Operation and Maintenance, Defense-Wide",DLA,04,Administration and service-wide activities,4G,Defensewide Activities,320,4GTB,Defense Logistics Agency,Y,402728,,402728,415073,5000,420073,585610,143000,728610,U
+0100D,"Operation and Maintenance, Defense-Wide",DMACT,04,Administration and service-wide activities,4G,Defensewide Activities,330,ES18,Defense Media Activity,Y,240978,,240978,217901,,217901,207551,37115,244666,U
+0100D,"Operation and Maintenance, Defense-Wide",DPAA,04,Administration and service-wide activities,4G,Defensewide Activities,340,4GTC,Defense POW/MIA Office,Y,184278,,184278,167068,,167068,160358,,160358,U
+0100D,"Operation and Maintenance, Defense-Wide",DSCA,04,Administration and service-wide activities,4G,Defensewide Activities,350,4GTD,Defense Security Cooperation Agency,Y,10932000,,10932000,3653957,,3653957,3780757,1681,3782438,U
+0100D,"Operation and Maintenance, Defense-Wide",DTSA,04,Administration and service-wide activities,4G,Defensewide Activities,360,4GTH,Defense Technology Security Administration,Y,43839,,43839,38284,,38284,47101,,47101,U
+0100D,"Operation and Maintenance, Defense-Wide",DTRA,04,Administration and service-wide activities,4G,Defensewide Activities,370,4GTI,Defense Threat Reduction Agency,Y,839331,,839331,684373,,684373,637514,,637514,U
+0100D,"Operation and Maintenance, Defense-Wide",DTRA,04,Administration and service-wide activities,4G,Defensewide Activities,390,4GTL,Defense Threat Reduction Agency - CYBER,Y,52745,,52745,68850,,68850,73477,,73477,U
+0100D,"Operation and Maintenance, Defense-Wide",DODEA,04,Administration and service-wide activities,4G,Defensewide Activities,400,4GTJ,Department of Defense Education Activity,Y,3547352,,3547352,3604951,110000,3714951,3493232,1650716,5143948,U
+0100D,"Operation and Maintenance, Defense-Wide",MDA,04,Administration and service-wide activities,4G,Defensewide Activities,410,011A,Missile Defense Agency,Y,671366,,671366,697729,,697729,487235,,487235,U
+0100D,"Operation and Maintenance, Defense-Wide",OLDCC,04,Administration and service-wide activities,4G,Defensewide Activities,420,4GTM,Office of the Local Defense Community Cooperation,Y,468342,,468342,183140,100000,283140,142597,,142597,U
+0100D,"Operation and Maintenance, Defense-Wide",TJS,04,Administration and service-wide activities,4J,Defensewide Activities,430,8PL3,Joint Chiefs of Staff - JIATF,Y,,,,,11500,11500,431652,,431652,U
+0100D,"Operation and Maintenance, Defense-Wide",OSD,04,Administration and service-wide activities,4G,Defensewide Activities,470,4GTC,Office of the Secretary of Defense - CYBER,Y,104132,,104132,121299,,121299,81163,,81163,U
+0100D,"Operation and Maintenance, Defense-Wide",OSD,04,Administration and service-wide activities,4G,Defensewide Activities,480,4GTN,Office of the Secretary of Defense,Y,2869829,,2869829,2128884,1016163,3145047,3832831,1067469,4900300,U
+0100D,"Operation and Maintenance, Defense-Wide",DEFW,04,Administration and service-wide activities,1P,Defensewide Activities,490,REC1,Homeland Defense Initiatives,Y,,,,,72615,72615,,,,U
+0100D,"Operation and Maintenance, Defense-Wide",DEFW,04,Administration and service-wide activities,4G,Defensewide Activities,500,TPDD,Taiwan Presidential Drawdown Replacement Fund,Y,,,,,850000,850000,,,,U
+0100D,"Operation and Maintenance, Defense-Wide",WHS,04,Administration and service-wide activities,4G,Defensewide Activities,510,4GTQ,Washington Headquarters Services,Y,473827,,473827,410106,,410106,536546,513000,1049546,U
+0100D,"Operation and Maintenance, Defense-Wide",,04,,,,999,9999,Classified Programs,Y,20802047,,20802047,22233592,8000,22241592,24579358,,24579358,U
+0107D,Office of the Inspector General,IG,01,Operation and maintenance,4G,Defensewide Activities,010,4GTV,Office of the Inspector General,Y,530243,,530243,509865,10000,519865,501371,,501371,U
+0107D,Office of the Inspector General,IG,01,Operation and maintenance,4G,Defensewide Activities,020,4GXX,Office of the Inspector General - CYBER,Y,1988,,1988,2030,,2030,2073,,2073,U
+0107D,Office of the Inspector General,IG,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,030,4GTV,Office of the Inspector General,Y,1900,,1900,4625,,4625,1506,,1506,U
+0107D,Office of the Inspector General,IG,03,Procurement,4G,Defensewide Activities,040,4GTV,Office of the Inspector General,Y,1336,,1336,1079,,1079,1393,,1393,U
+0104D,United States Court of Appeals for the Armed Forces,CAAF,04,Administration and associated activities,4G,Defensewide Activities,010,4GTT,"Us Court of Appeals for the Armed Forces, Defense",Y,19202,,19202,21243,,21243,21698,,21698,U
+0105D,"Drug Interdiction and Counter-Drug Activities, Defense",DEPS,01,Drug interdiction and counter drug activities,10,Defense Account,010,1FU1,Counter-Narcotics Support,Y,,,,678737,,678737,658191,,658191,U
+0105D,"Drug Interdiction and Counter-Drug Activities, Defense",DEPSDDR,02,Drug demand reduction program,10,Defense Account,020,2FU1,Drug Demand Reduction Program,Y,,,,134938,,134938,135745,,135745,U
+0105D,"Drug Interdiction and Counter-Drug Activities, Defense",DEPS,03,National Guard Counter-Drug Program,10,Defense Account,030,3FU1,National Guard Counter-Drug Program,Y,,,,305000,,305000,117418,,117418,U
+0105D,"Drug Interdiction and Counter-Drug Activities, Defense",DEPS,04,National Guard Counter-Drug Schools,10,Defense Account,040,4FU1,National Guard Counter-Drug Schools,Y,,,,30000,,30000,6648,,6648,U
+0838D,"Support for International Sporting Competitions , Defense",DEFW,01,Operations Support,45,Closed Account Adjustments,100,054,"Support of International Sporting Competitions, Defense",Y,147,,147,,,,,,,U
+0130D,Combat and Operational Medicine Program,DHA,01,Operation and maintenance,14,Defense Health Program,010,1,In-House Care,Y,10294476,,10294476,10735135,700000,11435135,10863317,,10863317,U
+0130D,Combat and Operational Medicine Program,DHA,01,Operation and maintenance,14,Defense Health Program,020,2,Private Sector Care,Y,20201022,,20201022,20773888,,20773888,,,,U
+0130D,Combat and Operational Medicine Program,DHA,01,Operation and maintenance,14,Defense Health Program,030,3,Consolidated Health Support,Y,1771311,,1771311,2145778,,2145778,2375175,,2375175,U
+0130D,Combat and Operational Medicine Program,DHA,01,Operation and maintenance,14,Defense Health Program,040,4,Information Management,Y,2452552,,2452552,2271798,100000,2371798,2600177,,2600177,U
+0130D,Combat and Operational Medicine Program,DHA,01,Operation and maintenance,14,Defense Health Program,050,5,Management Activities,Y,340947,,340947,303898,,303898,304382,,304382,U
+0130D,Combat and Operational Medicine Program,DHA,01,Operation and maintenance,14,Defense Health Program,060,6,Education and Training,Y,368326,,368326,385926,,385926,349460,,349460,U
+0130D,Combat and Operational Medicine Program,DHA,01,Operation and maintenance,14,Defense Health Program,070,7,Base Operations/Communications,Y,2324437,,2324437,2331290,887000,3218290,2463042,3138924,5601966,U
+0130D,Combat and Operational Medicine Program,DHA,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,080,0601,R&D Research,Y,41476,,41476,41660,,41660,41924,,41924,U
+0130D,Combat and Operational Medicine Program,DHA,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,090,0602,R&D Exploratry Development,Y,188564,,188564,230398,,230398,185153,,185153,U
+0130D,Combat and Operational Medicine Program,DHA,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,100,0603,R&D Advanced Development,Y,1031825,,1031825,1756072,,1756072,361241,,361241,U
+0130D,Combat and Operational Medicine Program,DHA,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,110,0604,R&D Demonstration/Validation,Y,195518,,195518,208983,,208983,186018,,186018,U
+0130D,Combat and Operational Medicine Program,DHA,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,120,0605,R&D Engineering Development,Y,130931,,130931,117190,,117190,124662,,124662,U
+0130D,Combat and Operational Medicine Program,DHA,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,130,0606,R&D Management and Support,Y,88425,,88425,99338,,99338,100912,,100912,U
+0130D,Combat and Operational Medicine Program,DHA,02,"Research, Development, Test, and Evaluation",4G,Defensewide Activities,140,0607,R&D Capabilities Enhancement,Y,18697,,18697,19071,,19071,19452,,19452,U
+0130D,Combat and Operational Medicine Program,DHA,03,Procurement,4G,Defensewide Activities,150,7720,PROC Initial Outfitting,Y,23449,,23449,24597,,24597,25555,,25555,U
+0130D,Combat and Operational Medicine Program,DHA,03,Procurement,4G,Defensewide Activities,160,7721,PROC Replacement & Modernization,Y,243184,,243184,222445,,222445,231382,,231382,U
+0130D,Combat and Operational Medicine Program,DHA,03,Procurement,4G,Defensewide Activities,170,7746,PROC Joint Operational Medicine Information System,Y,30129,,30129,30732,,30732,31203,,31203,U
+0130D,Combat and Operational Medicine Program,DHA,03,Procurement,4G,Defensewide Activities,180,7759,PROC Military Health System - Desktop to Datacenter,Y,75536,,75536,77047,,77047,78588,,78588,U
+0130D,Combat and Operational Medicine Program,DHA,03,Procurement,4G,Defensewide Activities,190,7787,PROC DoD Healthcare Management System Modernization,Y,26569,,26569,,,,,,,U
+0810D,"Environmental Restoration, Defense",DEFW,04,Defense-wide,45,Closed Account Adjustments,080,045G,"Environmental Restoration, Defense",Y,,,,8885,,8885,8957,,8957,U
+0146D,Private Sector Care Program,DHA,01,Operation and maintenance,14,Defense Health Program,010,2,Private Sector Care,Y,,,,,,,22175472,,22175472,U
+0811D,"Environmental Restoration, Formerly Used Defense Sites",DEFW,05,DEFENSE-WIDE,45,Closed Account Adjustments,090,047G,Environmental Restoration Formerly Used Sites,Y,,,,235156,,235156,238927,,238927,U
+0819D,"Overseas Humanitarian, Disaster, and Civic Aid",DSCA,01,Humanitarian assistance,4G,Defensewide Activities,010,4GTD,"Overseas Humanitarian, Disaster and Civic Aid",Y,115335,,115335,100793,,100793,78187,,78187,U
+0134D,Cooperative Threat Reduction Account,DTRA,01,FSU Threat Reduction,1P,Defensewide Activities,010,1PL3,Cooperative Threat Reduction,Y,296076,,296076,282830,,282830,221332,,221332,U
+0111D,Department of Defense Acquisition Workforce Development Fund,DAU,01,Acquisition workforce development,1Q,Acq Workforce Dev Fd,010,012,Acq Workforce Dev Fd,Y,55826,,55826,50846,,50846,37478,,37478,U
+5188D,Disposal of Department of Defense Real Property,A,10,Concept Obligations,22,Disposal of DoD Real Property,130,120,Disposal of DoW Real Property,N,2634,,2634,6594,,6594,4034,,4034,U
+5188D,Disposal of Department of Defense Real Property,N,10,Concept Obligations,22,Disposal of DoD Real Property,140,130,Disposal of DoW Real Property,N,-24,,-24,284,,284,,,,U
+5188D,Disposal of Department of Defense Real Property,F,10,Concept Obligations,22,Disposal of DoD Real Property,150,110,Disposal of DoW Real Property,N,2436,,2436,24,,24,3765,,3765,U
+5189D,Lease of Department of Defense Real Property,A,10,Concept Obligations,25,Lease of DoD Real Property,160,150,Lease of DoW Real Property,N,21339,,21339,17069,,17069,16454,,16454,U
+5189D,Lease of Department of Defense Real Property,N,10,Concept Obligations,25,Lease of DoD Real Property,170,160,Lease of DoW Real Property,N,10769,,10769,6889,,6889,8304,,8304,U
+5189D,Lease of Department of Defense Real Property,F,10,Concept Obligations,25,Lease of DoD Real Property,180,140,Lease of DoW Real Property,N,16161,,16161,9433,,9433,12462,,12462,U
